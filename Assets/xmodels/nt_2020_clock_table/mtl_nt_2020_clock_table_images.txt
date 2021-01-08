@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,nt_2020_clock_table_n
+colorMap,~~-gnt_2020_clock_table_c-rgb~5b6dd255

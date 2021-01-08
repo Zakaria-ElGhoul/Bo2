@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,$identitynormalmap
+colorMap,~-gnt_hydro_cabbage_seedling

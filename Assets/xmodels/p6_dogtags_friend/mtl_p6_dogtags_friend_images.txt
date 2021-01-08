@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gdogtags_red_s-rgb&~-rdogt~3bade186
+normalMap,dogtags_n
+colorMap,~-gdogtags_c

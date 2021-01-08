@@ -1,0 +1,6 @@
+semantic,image_name
+unk_semantic_0x85FD017C,c_usa_secserv_sam_head_m
+unk_semantic_0x8C297E80,~~-gc_usa_secserv_sam_head_s-~22951f43
+Normal_Map,c_usa_secserv_sam_head_n
+unk_semantic_0xB2BA2D9E,skin_pore_detail_test
+Diffuse_Map,~-gc_usa_secserv_sam_head_c

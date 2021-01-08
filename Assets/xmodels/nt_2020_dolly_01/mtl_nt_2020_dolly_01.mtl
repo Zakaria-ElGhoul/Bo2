@@ -1,0 +1,7 @@
+newmtl mtl_nt_2020_dolly_01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_nt_2020_dolly_01\\~~-gmtl_nt_2020_dolly_wheel_c~4fd6ac3a.png
+map_bump ..\\_images\\mtl_nt_2020_dolly_01\\mtl_nt_2020_dolly_wheel_n.png

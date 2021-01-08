@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gp6_pipes_garage_s-rgb&~-r~d7301dc5
+normalMap,p6_pipes_garage_n
+colorMap,~-gp6_pipes_garage_c

@@ -1,0 +1,7 @@
+newmtl jun_ter_dirt_packed
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\jun_ter_dirt_packed\\~~-gjun_ter_dirt_packed_c-rgb~2472ac55.png
+map_bump ..\\_images\\jun_ter_dirt_packed\\jun_ter_dirt_packed_n.png

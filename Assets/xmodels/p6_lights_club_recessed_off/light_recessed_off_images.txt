@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gp6_light_recessed_decal_s~fc7c2165
+normalMap,p6_light_recessed_decal_n
+colorMap,~-gp6_light_recessed_decal_off_c

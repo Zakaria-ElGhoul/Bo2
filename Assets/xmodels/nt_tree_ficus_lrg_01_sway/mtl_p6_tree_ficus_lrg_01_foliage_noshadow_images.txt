@@ -1,0 +1,2 @@
+semantic,image_name
+colorMap,~-gp6_tree_ficus_lrg_01_foliage_c

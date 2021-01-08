@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,$identitynormalmap
+colorMap,~~-gveh_t6_cuav_drone_c-rgb&~~23802058

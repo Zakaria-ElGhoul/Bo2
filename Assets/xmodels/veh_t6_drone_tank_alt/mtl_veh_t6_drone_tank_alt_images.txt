@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gveh_t6_drone_tank_sc-rgb&~24d9f931
+normalMap,veh_t6_drone_tank_n
+colorMap,~-gveh_t6_drone_tank_alt_c

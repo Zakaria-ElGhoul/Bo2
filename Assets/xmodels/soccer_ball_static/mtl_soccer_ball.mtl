@@ -1,0 +1,8 @@
+newmtl mtl_soccer_ball
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_soccer_ball\\~-gsoccer_ball01_col.png
+map_bump ..\\_images\\mtl_soccer_ball\\soccer_ball01_nml.png
+map_Ks ..\\_images\\mtl_soccer_ball\\~~-gsoccer_ball01_spc-rgb&~-r~83afdb34.png

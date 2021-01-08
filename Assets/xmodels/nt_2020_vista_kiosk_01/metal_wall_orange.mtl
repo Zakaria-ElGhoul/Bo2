@@ -1,0 +1,8 @@
+newmtl metal_wall_orange
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\metal_wall_orange\\~-grus_metal_orange_c.png
+map_bump ..\\_images\\metal_wall_orange\\rus_metal_orange_n.png
+map_Ks ..\\_images\\metal_wall_orange\\~~-grus_metal_orange_q-rgb&~-~2c4e727e.png

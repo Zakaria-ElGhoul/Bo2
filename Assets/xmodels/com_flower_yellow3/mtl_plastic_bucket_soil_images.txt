@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gplastic_bucket_soil_spc-r~026149b0
+normalMap,plastic_bucket_soil_nml
+colorMap,~-gplastic_bucket_soil_col

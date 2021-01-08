@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,metal_pipe_nml
+colorMap,~~-gpipe_ceramic_col-rgb&~-rp~daa7ed6b

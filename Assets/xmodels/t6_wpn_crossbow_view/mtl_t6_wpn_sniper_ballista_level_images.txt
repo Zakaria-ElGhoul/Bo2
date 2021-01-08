@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x8C297E80,~~-gmtl_t6_wpn_sniper_ballist~00686c6a
+Normal_Map,mtl_t6_wpn_base_n
+Color_Map,~-gmtl_t6_wpn_sniper_ballista_lvl_col

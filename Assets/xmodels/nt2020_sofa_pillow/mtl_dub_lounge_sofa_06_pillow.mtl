@@ -1,0 +1,8 @@
+newmtl mtl_dub_lounge_sofa_06_pillow
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_dub_lounge_sofa_06_pillow\\~-gdub_lounge_sofa_06_col.png
+map_bump ..\\_images\\mtl_dub_lounge_sofa_06_pillow\\dub_lounge_sofa_06_nml.png
+map_Ks ..\\_images\\mtl_dub_lounge_sofa_06_pillow\\~~-gdub_lounge_sofa_06_spc-rg~3d88162c.png

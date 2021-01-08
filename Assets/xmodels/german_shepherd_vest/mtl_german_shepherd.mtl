@@ -1,0 +1,7 @@
+newmtl mtl_german_shepherd
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_german_shepherd\\~~-ggerman_shepherd_col-rgb&~~b1d0ee91.png
+map_bump ..\\_images\\mtl_german_shepherd\\german_shepherd_nml.png

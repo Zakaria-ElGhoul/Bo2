@@ -1,0 +1,8 @@
+newmtl mtl_nt_2020_fridge_glass
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_nt_2020_fridge_glass\\~-gmtl_nt2020_fridge_glass_col.png
+map_bump ..\\_images\\mtl_nt_2020_fridge_glass\\$identitynormalmap.png
+map_Ks ..\\_images\\mtl_nt_2020_fridge_glass\\~~-gmtl_nt2020_fridge_glass_s~0f318ce3.png

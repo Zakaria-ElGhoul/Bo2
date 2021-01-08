@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gnt_lightswitch_s-rgb&~-rn~ab927b13
+normalMap,nt_lightswitch_n
+colorMap,~-gnt_lightswitch_c

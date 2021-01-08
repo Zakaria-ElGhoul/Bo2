@@ -1,0 +1,2 @@
+semantic,image_name
+unk_semantic_0xDD64512E,~-gnt_2020_recycling_screen

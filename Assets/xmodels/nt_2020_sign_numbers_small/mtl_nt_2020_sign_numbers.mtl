@@ -1,0 +1,8 @@
+newmtl mtl_nt_2020_sign_numbers
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_nt_2020_sign_numbers\\~-gnt_2020_sign_numbers_col.png
+map_bump ..\\_images\\mtl_nt_2020_sign_numbers\\nt_2020_sign_numbers_nml.png
+map_Ks ..\\_images\\mtl_nt_2020_sign_numbers\\~~-gnt_2020_sign_numbers_spc-~d314b94c.png

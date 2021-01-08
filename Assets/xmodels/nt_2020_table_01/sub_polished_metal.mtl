@@ -1,0 +1,8 @@
+newmtl sub_polished_metal
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\sub_polished_metal\\~-gpolished_metal.png
+map_bump ..\\_images\\sub_polished_metal\\$identitynormalmap.png
+map_Ks ..\\_images\\sub_polished_metal\\~~-gpolished_metal_spec-rgb&~~c995a98f.png

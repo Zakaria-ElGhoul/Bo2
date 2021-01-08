@@ -1,0 +1,7 @@
+newmtl mtl_nt_2025_chess_board
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_nt_2025_chess_board\\~~-gnt_2025_chess_board_c-rgb~7a610cc9.png
+map_bump ..\\_images\\mtl_nt_2025_chess_board\\nt_2020_floor_kitchen_nml.png

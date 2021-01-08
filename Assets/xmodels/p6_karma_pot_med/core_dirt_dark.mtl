@@ -1,0 +1,7 @@
+newmtl core_dirt_dark
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\core_dirt_dark\\~~-gcore_dirt_dark_c-rgb&~-rc~9596eddb.png
+map_bump ..\\_images\\core_dirt_dark\\core_dirt_dark_n.png

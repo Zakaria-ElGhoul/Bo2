@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,nt_2020_door_latch_decal_n
+colorMap,~-gnt_2020_door_latch_decal_c

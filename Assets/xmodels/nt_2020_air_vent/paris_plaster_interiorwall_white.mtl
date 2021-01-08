@@ -1,0 +1,8 @@
+newmtl paris_plaster_interiorwall_white
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\paris_plaster_interiorwall_white\\~-gplaster_interiorwall_paint~9db24747.png
+map_bump ..\\_images\\paris_plaster_interiorwall_white\\$identitynormalmap.png
+map_Ks ..\\_images\\paris_plaster_interiorwall_white\\~~-gplaster_interiorwall_pain~1b5a3ea4.png

@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gnt_2020_chair5_spc-rgb&~-~ba10eb76
+normalMap,chair5_nml
+colorMap,~-gnt_2020_chair_yellowgreen_col

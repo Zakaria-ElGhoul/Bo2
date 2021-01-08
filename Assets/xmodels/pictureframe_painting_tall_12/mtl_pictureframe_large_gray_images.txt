@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,mtl_pictureframe_large_black_bump
+colorMap,~~-gmtl_pictureframe_large_gr~6a3843aa

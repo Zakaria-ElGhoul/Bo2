@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gnt_dishwasher_01_s-rgb&~-~7dcde598
+normalMap,nt_dishwasher_01_n
+colorMap,~-gnt_dishwasher_01_c

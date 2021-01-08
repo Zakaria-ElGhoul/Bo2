@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,nt_2020_food_dispenser_n
+colorMap,~~-gnt_2020_food_dispenser_c-~899514fb

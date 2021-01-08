@@ -1,0 +1,7 @@
+newmtl pent_art_filing_cabinet_base01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\pent_art_filing_cabinet_base01\\~~-gpent_art_filing_cabinet_b~f81a6e50.png
+map_bump ..\\_images\\pent_art_filing_cabinet_base01\\pent_art_filing_cabinet_base_n.png

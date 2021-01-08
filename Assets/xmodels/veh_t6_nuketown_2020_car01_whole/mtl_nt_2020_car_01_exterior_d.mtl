@@ -1,0 +1,8 @@
+newmtl mtl_nt_2020_car_01_exterior_d
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_nt_2020_car_01_exterior_d\\~-ghydro_car_exterior_dmg_c.png
+map_bump ..\\_images\\mtl_nt_2020_car_01_exterior_d\\hydro_car_exterior_n.png
+map_Ks ..\\_images\\mtl_nt_2020_car_01_exterior_d\\~~-ghydro_car_exterior_dmg_sr~26a2f850.png

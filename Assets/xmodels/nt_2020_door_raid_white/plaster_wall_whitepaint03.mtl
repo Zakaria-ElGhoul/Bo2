@@ -1,0 +1,7 @@
+newmtl plaster_wall_whitepaint03
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\plaster_wall_whitepaint03\\~~-gpent_art_wall_whitepaint0~9d749514.png
+map_bump ..\\_images\\plaster_wall_whitepaint03\\pent_art_wall_whitepaint01_n.png

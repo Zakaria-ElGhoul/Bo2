@@ -1,0 +1,7 @@
+newmtl mtl_dest_jun_outlet03_dmg
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_dest_jun_outlet03_dmg\\~~-gp_jun_electronic_outlet03~0e113d09.png
+map_bump ..\\_images\\mtl_dest_jun_outlet03_dmg\\p_jun_electronic_outlet03_dmg_n.png

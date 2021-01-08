@@ -1,0 +1,6 @@
+newmtl mtl_t6_wpn_launch_fhj18_lens
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_bump ..\\_images\\mtl_t6_wpn_launch_fhj18_lens\\mtl_t6_wpn_launch_fhj18_lens_nml.png

@@ -1,0 +1,9 @@
+semantic,image_name
+unk_semantic_0x2EAD673E,~-gnuketown_2020_screen_welcome
+unk_semantic_0x6032A9D6,~-gnuketown_2020_screen_c
+unk_semantic_0xC9B203A6,~-gnuketown_2020_screen_c_blank
+unk_semantic_0xDD64512E,~-gmtl_p6_sign_parkgarage_tal~87bcaac8
+unk_semantic_0xE132B738,~-gnuketown_2020_screen_c5
+unk_semantic_0xE132B73D,~-gnuketown_2020_screen_c2
+unk_semantic_0xE132B73E,~-gnuketown_2020_screen_c3
+unk_semantic_0xE132B73F,~-gnuketown_2020_screen_c4

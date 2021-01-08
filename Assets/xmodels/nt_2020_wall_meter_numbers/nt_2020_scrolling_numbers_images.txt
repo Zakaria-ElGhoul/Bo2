@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,$identitynormalmap
+colorMap,nt_2020_sign_numbers_col

@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,$identitynormalmap
+colorMap,~~-gveh_t6_drone_tank_missile~a1c144b4

@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,$identitynormalmap
+colorMap,~~-gnt_2020_glass_glow_col-rg~14f8a922

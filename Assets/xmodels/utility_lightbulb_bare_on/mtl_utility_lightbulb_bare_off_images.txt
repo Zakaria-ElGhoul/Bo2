@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,utility_lightbulb_bare_nml
+colorMap,~~-gutility_lightbulb_bare_co~7a9580a5

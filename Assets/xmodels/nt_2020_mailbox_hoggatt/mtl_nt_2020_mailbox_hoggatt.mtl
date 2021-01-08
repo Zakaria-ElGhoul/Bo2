@@ -1,0 +1,8 @@
+newmtl mtl_nt_2020_mailbox_hoggatt
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_nt_2020_mailbox_hoggatt\\~-gnt_2020_mailbox_hoggatt_c.png
+map_bump ..\\_images\\mtl_nt_2020_mailbox_hoggatt\\nt_2020_mailbox_n.png
+map_Ks ..\\_images\\mtl_nt_2020_mailbox_hoggatt\\~~-gnt_2020_mailbox_s-rgb&~-r~18b18bd2.png

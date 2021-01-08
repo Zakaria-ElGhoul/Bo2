@@ -1,0 +1,8 @@
+newmtl hjk_interior_plastic_tile_02
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\hjk_interior_plastic_tile_02\\~-ghjk_interior_plastic_tile_02_col.png
+map_bump ..\\_images\\hjk_interior_plastic_tile_02\\hjk_interior_plastic_tile_02_nml.png
+map_Ks ..\\_images\\hjk_interior_plastic_tile_02\\~~-ghjk_interior_plastic_tile~24bfc592.png

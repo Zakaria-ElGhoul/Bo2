@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,veh_t6_v78_n
+colorMap,~~-gveh_t6_v78_enemy_c-rgb&~-~a788765e

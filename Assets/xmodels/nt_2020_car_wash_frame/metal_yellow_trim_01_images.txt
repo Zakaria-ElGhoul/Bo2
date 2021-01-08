@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gmetal_yellow_trim_01_g-rg~e2cc0c7f
+normalMap,metal_yellow_trim_01_n
+colorMap,~-gmetal_yellow_trim_01_c

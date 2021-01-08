@@ -1,0 +1,6 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gmtl_t6_wpn_pistol_judge_s~8fa00774
+normalMap,mtl_t6_wpn_pistol_judge_shell_n
+unk_semantic_0x6001F931,~mtl_t6_wpn_pistol_judge_shel~d8cb9ed2
+colorMap,~-gmtl_t6_wpn_pistol_judge_shell_c
+unk_semantic_0xBDBA9390,weapon_camo_neutral

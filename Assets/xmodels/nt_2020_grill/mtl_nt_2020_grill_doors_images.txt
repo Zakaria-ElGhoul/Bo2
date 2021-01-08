@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gnt_2020_grill_doors_s-rgb~148c17d0
+normalMap,$identitynormalmap
+colorMap,~-gnt_2020_grill_doors_c

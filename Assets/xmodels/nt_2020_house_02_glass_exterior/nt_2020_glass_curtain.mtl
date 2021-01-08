@@ -1,0 +1,8 @@
+newmtl nt_2020_glass_curtain
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\nt_2020_glass_curtain\\~-gnt_2020_glass_metal_01.png
+map_bump ..\\_images\\nt_2020_glass_curtain\\nt_2020_glass_metal_01_h_nml.png
+map_Ks ..\\_images\\nt_2020_glass_curtain\\~~-gnt_2020_glass_metal_01_cu~96007702.png

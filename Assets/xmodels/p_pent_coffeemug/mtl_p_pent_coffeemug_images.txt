@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,p_pent_coffeemug_n
+colorMap,~-gp_pent_coffeemug_c

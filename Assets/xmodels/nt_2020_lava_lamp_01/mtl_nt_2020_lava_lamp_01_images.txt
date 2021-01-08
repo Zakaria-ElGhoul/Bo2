@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0xDD64512E,~-gnt_2020_lava_lamp_01_layer1_col
+unk_semantic_0xDD64DD0D,~-gnt_2020_lava_lamp_01_layer3_col
+unk_semantic_0xDD65596C,~-gnt_2020_lava_lamp_01_layer2_col

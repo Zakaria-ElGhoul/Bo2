@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,mtl_p6_industrial_tubing_01_n
+colorMap,~~-gmtl_p6_industrial_tubing_~c09d4f12

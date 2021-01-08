@@ -1,0 +1,8 @@
+newmtl mtl_t6_wpn_minigun
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_t6_wpn_minigun\\~-gmtl_t6_wpn_minigun_col.png
+map_bump ..\\_images\\mtl_t6_wpn_minigun\\mtl_t6_wpn_minigun_nml.png
+map_Ks ..\\_images\\mtl_t6_wpn_minigun\\~~-gmtl_t6_wpn_minigun_spc-rg~9dec8b98.png

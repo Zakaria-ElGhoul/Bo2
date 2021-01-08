@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gplaster_interiorwall_pain~4f6b12de
+normalMap,plaster_interiorwall_paint_white_nml
+colorMap,~-gplaster_interiorwall_paint~5fe8577f

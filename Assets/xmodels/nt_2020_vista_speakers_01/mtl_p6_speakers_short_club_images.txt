@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gp6_speakers_short_club_s-~42343c05
+normalMap,p6_speakers_short_club_n
+colorMap,~-gp6_speakers_short_club_c

@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x8C297E80,~~-gc_mul_mp_pmc_shoe_s-rgb&c~b055002d
+Normal_Map,c_mul_mp_pmc_shoe_n
+Diffuse_Map,~-gc_usa_mp_seal6_shoes_2_c

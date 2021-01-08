@@ -1,0 +1,5 @@
+semantic,image_name
+Normal_Map,mtl_t6_attach_optic_reflex_lens_nml
+unk_semantic_0xAF4B0C2E,~-gmtl_t6_attach_optic_combo_lens
+Color_Map,~-gmtl_t6_attach_optic_reflex_lens_col
+unk_semantic_0xD37DCDD7,~-rmtl_t6_attach_optic_reflex~4b36dbe7

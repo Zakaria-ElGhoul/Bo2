@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,concrete_base02_n
+colorMap,~~-gconcrete_base02_c-rgb&~-r~c514ddf2

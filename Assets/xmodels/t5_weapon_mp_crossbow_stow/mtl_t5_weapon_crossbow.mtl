@@ -1,0 +1,8 @@
+newmtl mtl_t5_weapon_crossbow
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_t5_weapon_crossbow\\~-gcrossbow_c.png
+map_bump ..\\_images\\mtl_t5_weapon_crossbow\\crossbow_n.png
+map_Ks ..\\_images\\mtl_t5_weapon_crossbow\\~~-gcrossbow_corr-rgb&~-rcros~cfc0eca8.png

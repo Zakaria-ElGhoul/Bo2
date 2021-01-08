@@ -1,0 +1,7 @@
+newmtl me_office_ceiling_tiles_black
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\me_office_ceiling_tiles_black\\~~-gme_office_ceiling_tiles_b~9fdff71f.png
+map_bump ..\\_images\\me_office_ceiling_tiles_black\\me_office_ceiling_tiles_black_nml.png

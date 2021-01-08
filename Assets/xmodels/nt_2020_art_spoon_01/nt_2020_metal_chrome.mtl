@@ -1,0 +1,8 @@
+newmtl nt_2020_metal_chrome
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\nt_2020_metal_chrome\\~-gnt_2020_metal_stainless_col.png
+map_bump ..\\_images\\nt_2020_metal_chrome\\nt_2020_floor_kitchen_nml.png
+map_Ks ..\\_images\\nt_2020_metal_chrome\\~~-gnt_2020_plastic_blue_cos-~2ab1d5ca.png

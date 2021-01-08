@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gch_tinblue_spc-rgb&~-rch_~b968743d
+normalMap,ch_tinblue_nml
+colorMap,~-gch_tinblue_clean_col

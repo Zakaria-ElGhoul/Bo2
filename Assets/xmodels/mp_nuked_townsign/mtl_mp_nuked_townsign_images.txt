@@ -1,0 +1,4 @@
+semantic,image_name
+normalMap,mp_nuked_townsign_n
+colorMap,~~-gmp_nuked_townsign_c-rgb&~~83e28c1c
+detailMap,tiny_bumps_n

@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gmh6_littlebird_body_sc-rg~2e31568e
+normalMap,mh6_littlebird_body_n
+colorMap,~-gmh6_littlebird_body_c

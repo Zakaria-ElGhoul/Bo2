@@ -1,0 +1,8 @@
+newmtl nt_2020_signs_glass_06
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\nt_2020_signs_glass_06\\~-gnt_signs_glass_06_c.png
+map_bump ..\\_images\\nt_2020_signs_glass_06\\nt_signs_glass_06_n.png
+map_Ks ..\\_images\\nt_2020_signs_glass_06\\~~-gnt_signs_glass_06_s-rgb&$black-l.png

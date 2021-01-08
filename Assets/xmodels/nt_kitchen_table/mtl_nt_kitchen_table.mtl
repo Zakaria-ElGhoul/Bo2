@@ -1,0 +1,8 @@
+newmtl mtl_nt_kitchen_table
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_nt_kitchen_table\\~-gnt_kitchen_table_c.png
+map_bump ..\\_images\\mtl_nt_kitchen_table\\nt_kitchen_table_n.png
+map_Ks ..\\_images\\mtl_nt_kitchen_table\\~~-gnt_kitchen_table_s-rgb&~-~949a9a9a.png

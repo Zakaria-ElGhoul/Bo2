@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,p6_attack_dog_vest_n
+colorMap,~~-gp6_attack_dog_vest_c-rgb&~13e4103c

@@ -1,0 +1,8 @@
+newmtl mtl_furniture_lawn_chair_1_metal
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_furniture_lawn_chair_1_metal\\~-glawn_chair_1_metal_col.png
+map_bump ..\\_images\\mtl_furniture_lawn_chair_1_metal\\lawn_chair_1_nml.png
+map_Ks ..\\_images\\mtl_furniture_lawn_chair_1_metal\\~~-glawn_chair_1_spc-rgb&~-rl~9b5f495b.png

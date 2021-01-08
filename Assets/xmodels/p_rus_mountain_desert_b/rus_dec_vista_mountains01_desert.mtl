@@ -1,0 +1,7 @@
+newmtl rus_dec_vista_mountains01_desert
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\rus_dec_vista_mountains01_desert\\~-gd_vista_desert_mountain_01_c.png
+map_bump ..\\_images\\rus_dec_vista_mountains01_desert\\d_vista_desert_mountain_01_n.png

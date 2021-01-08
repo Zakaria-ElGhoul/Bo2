@@ -1,0 +1,5 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gmetal_wall_brushed02_s-rg~33545bee
+normalMap,metal_wall_brushed02_n
+unk_semantic_0x6001F931,~$white-lc050ef0dlll
+colorMap,~-gmetal_wall_brushed02_c

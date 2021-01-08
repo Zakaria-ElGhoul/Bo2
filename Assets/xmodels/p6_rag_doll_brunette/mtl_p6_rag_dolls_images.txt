@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,p6_rag_dolls_n
+colorMap,~~-gp6_rag_dolls_c-rgb&~-rp6_~d35889b4

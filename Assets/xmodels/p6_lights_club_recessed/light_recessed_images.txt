@@ -1,0 +1,2 @@
+semantic,image_name
+colorMap,~-gp6_light_recessed_decal_c

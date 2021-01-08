@@ -1,0 +1,8 @@
+newmtl nt_2020_metal_beige
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\nt_2020_metal_beige\\~-gnt_2020_metal_beige_c.png
+map_bump ..\\_images\\nt_2020_metal_beige\\$identitynormalmap.png
+map_Ks ..\\_images\\nt_2020_metal_beige\\~~-gnt_2020_plastic_blue_spc-~35b2c8d5.png

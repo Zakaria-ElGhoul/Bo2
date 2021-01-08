@@ -1,0 +1,7 @@
+newmtl mtl_nt_2020_vista_ufo
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_nt_2020_vista_ufo\\~~-gufo_blding_c-rgb&~-rufo_b~eb929359.png
+map_bump ..\\_images\\mtl_nt_2020_vista_ufo\\ufo_blding_n.png

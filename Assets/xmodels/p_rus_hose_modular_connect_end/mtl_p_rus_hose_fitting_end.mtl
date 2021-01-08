@@ -1,0 +1,7 @@
+newmtl mtl_p_rus_hose_fitting_end
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_p_rus_hose_fitting_end\\~~-gp_rus_hose_fitting_end_c-~9f6c11f1.png
+map_bump ..\\_images\\mtl_p_rus_hose_fitting_end\\p_rus_hose_fitting_end_n.png

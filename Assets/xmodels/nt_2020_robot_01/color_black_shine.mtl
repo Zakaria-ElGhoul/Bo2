@@ -1,0 +1,7 @@
+newmtl color_black_shine
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\color_black_shine\\~~-gglobal_color_black-rgb&~-~a819a5cf.png
+map_bump ..\\_images\\color_black_shine\\$identitynormalmap.png

@@ -1,0 +1,8 @@
+newmtl mtl_nt_2020_tour_bus_fin
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_nt_2020_tour_bus_fin\\~-gnt_2020_tour_bus_fin_c.png
+map_bump ..\\_images\\mtl_nt_2020_tour_bus_fin\\nt_2020_tour_bus_fin_n.png
+map_Ks ..\\_images\\mtl_nt_2020_tour_bus_fin\\~~-gnt_2020_tour_bus_fin_sc-r~23f87e46.png

@@ -1,0 +1,6 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gmtl_t6_attach_optic_holo_~f3dd44d2
+normalMap,mtl_t6_attach_optic_holo_nml
+unk_semantic_0x6001F931,~mtl_t6_attach_optic_holo_ao-~719491a0
+colorMap,~-gmtl_t6_attach_optic_holo_col
+unk_semantic_0xBDBA9390,camo_off_solid

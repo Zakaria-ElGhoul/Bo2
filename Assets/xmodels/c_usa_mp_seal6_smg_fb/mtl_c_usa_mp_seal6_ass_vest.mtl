@@ -1,0 +1,8 @@
+newmtl mtl_c_usa_mp_seal6_ass_vest
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_c_usa_mp_seal6_ass_vest\\~-gc_usa_mp_seal6_ass_vest_c.png
+map_bump ..\\_images\\mtl_c_usa_mp_seal6_ass_vest\\c_usa_mp_seal6_ass_vest_n.png
+map_Ks ..\\_images\\mtl_c_usa_mp_seal6_ass_vest\\~~-gc_usa_mp_seal6_ass_vest_s~3ccdc3e7.png

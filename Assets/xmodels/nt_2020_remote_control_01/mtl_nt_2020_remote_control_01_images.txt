@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gnt_2020_remote_control_01~e3595aac
+normalMap,nt_2020_remote_control_01_nrm
+colorMap,~-gnt_2020_remote_control_01_col

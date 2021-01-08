@@ -1,0 +1,8 @@
+newmtl rus_art_metal_black_trim
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\rus_art_metal_black_trim\\~-grus_metal_black_trim_c.png
+map_bump ..\\_images\\rus_art_metal_black_trim\\rus_metal_grey_trim_n.png
+map_Ks ..\\_images\\rus_art_metal_black_trim\\~~-grus_metal_black_trim_s-rg~a6d4c6d7.png

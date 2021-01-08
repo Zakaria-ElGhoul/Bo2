@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x8C297E80,~~-gc_usa_mp_seal6_snip_head_~6dd492d0
+Normal_Map,c_usa_mp_seal6_snip_head_n
+Diffuse_Map,~-gc_usa_mp_seal6_snip_head_c

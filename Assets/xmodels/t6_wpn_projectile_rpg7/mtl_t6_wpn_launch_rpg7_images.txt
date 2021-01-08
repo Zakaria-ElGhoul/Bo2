@@ -1,0 +1,6 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gmtl_t6_wpn_launch_rpg7_sp~c13679e8
+normalMap,mtl_t6_wpn_launch_rpg7_nml
+unk_semantic_0x6001F931,~mtl_t6_wpn_launch_rpg7_ao-l&~370d424a
+colorMap,~-gmtl_t6_wpn_launch_rpg7_col
+unk_semantic_0xBDBA9390,weapon_camo_neutral

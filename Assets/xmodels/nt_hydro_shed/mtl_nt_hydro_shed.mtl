@@ -1,0 +1,8 @@
+newmtl mtl_nt_hydro_shed
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_nt_hydro_shed\\~-gnt_hydro_shed_c.png
+map_bump ..\\_images\\mtl_nt_hydro_shed\\$identitynormalmap.png
+map_Ks ..\\_images\\mtl_nt_hydro_shed\\~~-gnt_hydro_shed_s-rgb&~-rnt~9bad5c51.png

@@ -1,0 +1,7 @@
+newmtl mtl_p6_attack_dog_vest_dark
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_p6_attack_dog_vest_dark\\~~-gp6_attack_dog_vest_dark_c~3a6dc9c6.png
+map_bump ..\\_images\\mtl_p6_attack_dog_vest_dark\\p6_attack_dog_vest_n.png

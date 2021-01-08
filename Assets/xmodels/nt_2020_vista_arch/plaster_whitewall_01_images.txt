@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,plaster_whitewall01bump
+colorMap,~~-gplaster_whitewall01-rgb&~~da03132f

@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gcbu97_clusterbomb_spc-rgb~a4948675
+normalMap,cbu97_clusterbomb_nml
+colorMap,~-gcbu97_clusterbomb_col

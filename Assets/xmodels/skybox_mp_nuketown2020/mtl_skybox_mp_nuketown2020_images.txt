@@ -1,0 +1,2 @@
+semantic,image_name
+colorMap,skybox_mp_nuketown2020_ft

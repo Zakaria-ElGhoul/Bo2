@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,nt_2020_floor_kitchen_nml
+colorMap,~~-gnt_2025_chess_board_c-rgb~7a610cc9

@@ -1,0 +1,8 @@
+newmtl mtl_machinery_solar_panels_on_post_metal
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_machinery_solar_panels_on_post_metal\\~-gmachinery_solar_panels_on_post_col.png
+map_bump ..\\_images\\mtl_machinery_solar_panels_on_post_metal\\machinery_solar_panels_on_post_nml.png
+map_Ks ..\\_images\\mtl_machinery_solar_panels_on_post_metal\\~~-gmachinery_solar_panels_on~1a3f572e.png

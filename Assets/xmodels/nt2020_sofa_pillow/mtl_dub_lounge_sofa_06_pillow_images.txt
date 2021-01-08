@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gdub_lounge_sofa_06_spc-rg~3d88162c
+normalMap,dub_lounge_sofa_06_nml
+colorMap,~-gdub_lounge_sofa_06_col

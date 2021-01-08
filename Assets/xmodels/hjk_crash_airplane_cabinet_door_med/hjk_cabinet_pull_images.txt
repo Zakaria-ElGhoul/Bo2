@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,hjk_cabinet_pull_nml
+colorMap,~~-ghjk_cabinet_pull_col-rgb&~f2b7a38d

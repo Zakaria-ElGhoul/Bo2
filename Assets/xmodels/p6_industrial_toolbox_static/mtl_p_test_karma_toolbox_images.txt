@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,p_test_karma_toolbox_n
+colorMap,~~-gp_test_karma_toolbox_c-rg~d8ef6c22

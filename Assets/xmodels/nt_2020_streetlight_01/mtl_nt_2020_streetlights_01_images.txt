@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,nt_streetlight_01_n
+colorMap,~~-gnt_streetlight_01_c-rgb&~~f9646283

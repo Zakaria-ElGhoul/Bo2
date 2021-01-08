@@ -1,0 +1,8 @@
+newmtl mtl_p6_nitrogen_tank_new
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_p6_nitrogen_tank_new\\~-gp6_nitrogen_tank_c.png
+map_bump ..\\_images\\mtl_p6_nitrogen_tank_new\\p6_nitrogen_tank_n.png
+map_Ks ..\\_images\\mtl_p6_nitrogen_tank_new\\~~-gp6_nitrogen_tank_s-rgb&~-~2de78638.png

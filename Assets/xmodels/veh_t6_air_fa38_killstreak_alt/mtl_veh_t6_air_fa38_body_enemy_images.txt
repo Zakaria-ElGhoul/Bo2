@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gveh_t6_air_fa38_body_spec~fe9073de
+normalMap,veh_t6_air_fa38_body_normal
+colorMap,~-gveh_t6_air_fa38_body_enemy_c

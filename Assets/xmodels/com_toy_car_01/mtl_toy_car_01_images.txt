@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gmtl_toy_car_01_spec-rgb&~~77c0dce8
+normalMap,mtl_toy_car_01_bump
+colorMap,~-gmtl_toy_car_01

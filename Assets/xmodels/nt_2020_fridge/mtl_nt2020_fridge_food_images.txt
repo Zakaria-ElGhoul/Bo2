@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,mtl_nt2020_fridge_food_nml
+colorMap,~~-gmtl_nt2020_fridge_food_co~635fc583

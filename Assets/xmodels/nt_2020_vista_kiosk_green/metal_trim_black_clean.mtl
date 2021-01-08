@@ -1,0 +1,8 @@
+newmtl metal_trim_black_clean
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\metal_trim_black_clean\\~-grus_metal_trim02_clean_c.png
+map_bump ..\\_images\\metal_trim_black_clean\\$identitynormalmap.png
+map_Ks ..\\_images\\metal_trim_black_clean\\~~-grus_metal_trim02_clean_s-~1870c73e.png

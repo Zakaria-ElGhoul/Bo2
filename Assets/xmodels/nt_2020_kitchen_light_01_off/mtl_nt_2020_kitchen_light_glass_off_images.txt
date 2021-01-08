@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gnt_2020_kitchen_light_gla~06ff55ba
+normalMap,$identitynormalmap
+colorMap,~-gnt_2020_kitchen_light_glass_c

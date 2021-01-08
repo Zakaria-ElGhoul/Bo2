@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gnt_2020_buttons_c-rgb&~-r~3037f5e6
+normalMap,nt_2020_buttons_n
+colorMap,~-gnt_2020_buttons_c

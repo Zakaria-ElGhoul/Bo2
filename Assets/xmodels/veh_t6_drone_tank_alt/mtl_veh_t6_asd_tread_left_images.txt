@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,veh_t6_drone_asd_treads_n
+colorMap,~~-gveh_t6_drone_asd_treads_c~0d61405e

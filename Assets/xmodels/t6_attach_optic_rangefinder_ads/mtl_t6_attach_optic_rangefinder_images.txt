@@ -1,0 +1,6 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gmtl_t6_attach_optic_range~804f8125
+normalMap,mtl_t6_attach_optic_rangefinder_nml
+unk_semantic_0x6001F931,~mtl_t6_attach_optic_rangefin~9d0fe5c9
+colorMap,~-gmtl_t6_attach_optic_rangefinder_col
+unk_semantic_0xBDBA9390,weapon_camo_neutral

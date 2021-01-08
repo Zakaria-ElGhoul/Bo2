@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,nt_2020_microwave_inside_n
+colorMap,~~-gnt_2020_microwave_inside_~0f54298c

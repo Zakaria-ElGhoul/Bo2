@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gm84_flashbang_burnt_spec-~00403ce8
+normalMap,$identitynormalmap
+colorMap,~-gm84_flashbang_burnt_col

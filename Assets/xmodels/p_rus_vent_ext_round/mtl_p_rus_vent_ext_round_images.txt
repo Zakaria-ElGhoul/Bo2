@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,p_rus_vent_ext_round_n
+colorMap,~~-gp_rus_vent_ext_round_c-rg~522c92ab

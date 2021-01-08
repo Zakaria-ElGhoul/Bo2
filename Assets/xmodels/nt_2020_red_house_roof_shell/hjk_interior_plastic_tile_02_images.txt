@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-ghjk_interior_plastic_tile~24bfc592
+normalMap,hjk_interior_plastic_tile_02_nml
+colorMap,~-ghjk_interior_plastic_tile_02_col

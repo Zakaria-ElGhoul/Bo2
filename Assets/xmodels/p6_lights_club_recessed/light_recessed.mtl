@@ -1,0 +1,6 @@
+newmtl light_recessed
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\light_recessed\\~-gp6_light_recessed_decal_c.png

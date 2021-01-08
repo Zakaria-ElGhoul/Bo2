@@ -1,0 +1,4 @@
+semantic,image_name
+normalMap,nt_2020_green_chair_nrm
+colorMap,~-gnt_2020_yellow_chair_col
+detailMap,char_base_fabric_twill_n

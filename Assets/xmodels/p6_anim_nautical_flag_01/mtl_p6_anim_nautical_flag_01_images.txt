@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gp6_anim_nautical_flag_01_~46f6d4e4
+normalMap,p6_anim_nautical_flag_01_n
+colorMap,~-gp6_anim_nautical_flag_01_c

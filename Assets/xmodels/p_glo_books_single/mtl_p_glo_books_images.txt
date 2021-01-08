@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,berlin_books_n
+colorMap,~-gberlin_books_c

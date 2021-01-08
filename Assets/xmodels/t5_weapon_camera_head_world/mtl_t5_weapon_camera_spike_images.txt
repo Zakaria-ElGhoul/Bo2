@@ -1,0 +1,6 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gt5_weapon_camera_spike_sc~f55155fc
+normalMap,t5_weapon_camera_spike_n
+unk_semantic_0x6001F931,~t5_weapon_camera_spike_ao-l&~5589e4a5
+colorMap,~-gt5_weapon_camera_spike_c
+unk_semantic_0xBDBA9390,weapon_camo_off

@@ -1,0 +1,7 @@
+newmtl mtl_p6_monsoon_lab_doors
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_p6_monsoon_lab_doors\\~~-gp6_monsoon_lab_doors_c-rg~35bad1fc.png
+map_bump ..\\_images\\mtl_p6_monsoon_lab_doors\\p6_monsoon_lab_doors_n.png

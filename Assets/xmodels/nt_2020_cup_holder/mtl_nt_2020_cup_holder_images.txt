@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gmtl_nt_2020_cup_holder_s-~a1d90957
+normalMap,mtl_nt_2020_cup_holder_n
+colorMap,~-gmtl_nt_2020_cup_holder_c

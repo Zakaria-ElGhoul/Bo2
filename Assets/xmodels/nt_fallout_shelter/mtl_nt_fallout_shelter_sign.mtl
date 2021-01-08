@@ -1,0 +1,7 @@
+newmtl mtl_nt_fallout_shelter_sign
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_nt_fallout_shelter_sign\\~-gnt_fallout_shelter_sign_c.png
+map_bump ..\\_images\\mtl_nt_fallout_shelter_sign\\nt_fallout_shelter_sign_n.png

@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,rus_concrete_n
+colorMap,~~-grus_concrete01_c-rgb&~-rr~3232bac1

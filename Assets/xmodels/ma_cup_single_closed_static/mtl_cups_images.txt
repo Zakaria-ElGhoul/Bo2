@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,cups_nml
+colorMap,~~-gcups_col-rgb&~-rcups_cos&~17254211

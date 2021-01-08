@@ -1,0 +1,8 @@
+newmtl me_door_rollup1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\me_door_rollup1\\~-gme_garagedoor1.png
+map_bump ..\\_images\\me_door_rollup1\\me_garagedoor1_bump.png
+map_Ks ..\\_images\\me_door_rollup1\\~~-gme_garagedoor1_spec-rgb&~~6c02548f.png

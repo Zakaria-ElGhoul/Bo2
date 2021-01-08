@@ -1,0 +1,8 @@
+newmtl com_glass_opaque
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\com_glass_opaque\\~-gcom_glass_opaque_dirty_01_col.png
+map_bump ..\\_images\\com_glass_opaque\\$identitynormalmap.png
+map_Ks ..\\_images\\com_glass_opaque\\~~-gcom_glass_opaque_dirty_01~337a827e.png

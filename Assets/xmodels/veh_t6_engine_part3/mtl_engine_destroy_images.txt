@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,suv_engine_nml
+colorMap,~-gengine_destroy_col

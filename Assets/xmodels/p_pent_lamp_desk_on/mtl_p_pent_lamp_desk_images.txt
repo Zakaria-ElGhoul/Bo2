@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,p_pent_lamp_desk_n
+colorMap,~~-gp_pent_lamp_desk_c-rgb&~-~af9c1ac5

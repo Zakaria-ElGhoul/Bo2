@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,flower_pot_large_n
+colorMap,~-gflower_pot_large_col

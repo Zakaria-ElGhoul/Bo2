@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,nt_wall_meter_01_destroyed_n
+colorMap,~~-gnt_wall_meter_01_destroye~f3e941df

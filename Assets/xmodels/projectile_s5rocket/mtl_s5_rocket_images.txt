@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gprojectile_s5_rocket_spc-~14f5ea10
+normalMap,$identitynormalmap
+colorMap,~-gprojectile_s5_rocket_col

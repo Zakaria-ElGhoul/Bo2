@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,veh_t6_drone_supply_n
+colorMap,~~-gveh_t6_drone_supply_alt_c~36ac2d00

@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,normal_texture
+colorMap,~~-gnt_modern_desk_c-rgb&~-rn~9f0538ac

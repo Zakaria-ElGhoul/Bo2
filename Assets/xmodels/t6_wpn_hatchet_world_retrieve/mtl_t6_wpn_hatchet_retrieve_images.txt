@@ -1,0 +1,2 @@
+semantic,image_name
+colorMap,mtl_t6_wpn_hatchet_col

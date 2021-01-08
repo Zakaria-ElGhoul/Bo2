@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gmtl_t6_wpn_grenade_frag_s~38c20045
+normalMap,mtl_t6_wpn_grenade_frag_nml
+colorMap,~-gmtl_t6_wpn_grenade_frag_col

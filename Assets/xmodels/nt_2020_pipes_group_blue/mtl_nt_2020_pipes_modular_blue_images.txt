@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,p_rus_pipes_modular_n
+colorMap,~~-gnt_2020_pipes_modular_blu~b6a0081c

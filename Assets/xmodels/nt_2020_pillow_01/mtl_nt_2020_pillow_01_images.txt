@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,mtl_p6_pillow_middle_east_long_01_n
+colorMap,~-gnt_2020_pillow_col

@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gp_glo_bomb_stack_05_q-rgb~6fe29bef
+normalMap,p_glo_bomb_stack_05_n
+colorMap,~-gp_glo_bomb_stack_05_c

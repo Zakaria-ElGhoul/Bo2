@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gnt_2020_tour_bus_body_tex~4e6fdac0
+normalMap,$identitynormalmap
+colorMap,~-gnt_2020_tour_bus_body_text_decal

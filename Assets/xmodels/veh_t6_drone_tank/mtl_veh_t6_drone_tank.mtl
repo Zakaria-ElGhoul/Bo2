@@ -1,0 +1,8 @@
+newmtl mtl_veh_t6_drone_tank
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_veh_t6_drone_tank\\~-gveh_t6_drone_tank_c.png
+map_bump ..\\_images\\mtl_veh_t6_drone_tank\\veh_t6_drone_tank_n.png
+map_Ks ..\\_images\\mtl_veh_t6_drone_tank\\~~-gveh_t6_drone_tank_sc-rgb&~24d9f931.png

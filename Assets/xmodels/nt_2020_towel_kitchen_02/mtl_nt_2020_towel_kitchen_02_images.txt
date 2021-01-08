@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gtowel_cos-rgb&$black-l
+normalMap,towel_nml
+colorMap,~-gnt_2020_kitchen_towel_02_col

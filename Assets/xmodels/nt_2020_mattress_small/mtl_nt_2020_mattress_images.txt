@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gp_rus_mattress_q-rgb&~-rp~bbf3ef9f
+normalMap,p_rus_mattress_n
+colorMap,~-gnt_2020_mattress_sm_col

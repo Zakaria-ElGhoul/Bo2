@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,p_jun_electronic_outlet03_dmg_n
+colorMap,~~-gp_jun_electronic_outlet03~0e113d09

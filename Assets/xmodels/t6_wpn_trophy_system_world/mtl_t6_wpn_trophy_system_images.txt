@@ -1,0 +1,5 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gmtl_t6_wpn_trphoy_system_~fb6d42cd
+normalMap,mtl_t6_wpn_trphoy_system_nml
+colorMap,~-gmtl_t6_wpn_trphoy_system_col
+unk_semantic_0xBDBA9390,weapon_camo_neutral

@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gmtl_t6_attach_optic_rmr_s~2d7c01a4
+normalMap,mtl_t6_attach_optic_rmr_nml
+colorMap,~-gmtl_t6_attach_optic_rmr_col

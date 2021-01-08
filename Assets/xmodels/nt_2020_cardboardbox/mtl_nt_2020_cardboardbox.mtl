@@ -1,0 +1,7 @@
+newmtl mtl_nt_2020_cardboardbox
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_nt_2020_cardboardbox\\~~-gnt_2020_cardboardbox_c-rg~d53c982d.png
+map_bump ..\\_images\\mtl_nt_2020_cardboardbox\\cardboard_box_n.png

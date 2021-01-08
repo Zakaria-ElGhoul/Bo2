@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,$identitynormalmap
+colorMap,~~-gnt_bookshelf_02_c-rgb&~-r~9670ebe3

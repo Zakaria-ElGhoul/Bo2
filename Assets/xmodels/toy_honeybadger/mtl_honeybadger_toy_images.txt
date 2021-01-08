@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-ghbadger_toy_spc-rgb&~-rhb~52044744
+normalMap,hbadger_toy_nml
+colorMap,~-ghbadger_toy_col

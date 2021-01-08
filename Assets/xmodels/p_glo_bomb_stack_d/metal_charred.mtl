@@ -1,0 +1,7 @@
+newmtl metal_charred
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\metal_charred\\~~-grus_metal_dark_charred_c-~70dad620.png
+map_bump ..\\_images\\metal_charred\\rus_metal_dark_charred_n.png

@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,p_rus_pen_blue_n
+colorMap,~-gp_rus_pencil_c

@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,p_zm_nuked_table_art01_n
+colorMap,~~-gp_zm_nuked_table_art01_c-~1621e7bc

@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,nt_2020_house_02_couch_n
+colorMap,~~-gnt_2020_house_02_couch_c-~e1b5c3db

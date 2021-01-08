@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,p_pent_manila_folder_n
+colorMap,~~-gp_pent_manila_folder_plai~8a583881

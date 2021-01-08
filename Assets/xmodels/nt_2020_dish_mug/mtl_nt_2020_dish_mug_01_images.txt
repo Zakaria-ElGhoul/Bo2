@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gnt_2020_dish_mug_01_col-r~acc2521e
+normalMap,p_pent_coffeemug_n
+colorMap,~-gnt_2020_dish_mug_01_col

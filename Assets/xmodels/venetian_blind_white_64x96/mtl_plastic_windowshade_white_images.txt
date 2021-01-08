@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gvenetian_blind_white_spc-~a7a9c9c8
+normalMap,$identitynormalmap
+colorMap,~-gvenetian_blind_whitehigh_col

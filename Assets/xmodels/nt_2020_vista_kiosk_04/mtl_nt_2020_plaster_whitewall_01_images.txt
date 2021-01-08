@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,plaster_whitewall01bump
+colorMap,~~-gnt_2020_house_04_plasterf~eb5afb7b

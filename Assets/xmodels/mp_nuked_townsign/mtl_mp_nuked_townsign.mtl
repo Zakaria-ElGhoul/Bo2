@@ -1,0 +1,7 @@
+newmtl mtl_mp_nuked_townsign
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_mp_nuked_townsign\\~~-gmp_nuked_townsign_c-rgb&~~83e28c1c.png
+map_bump ..\\_images\\mtl_mp_nuked_townsign\\mp_nuked_townsign_n.png

@@ -1,0 +1,8 @@
+newmtl mtl_p6_anim_nautical_flag_04
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_p6_anim_nautical_flag_04\\~-gp6_anim_nautical_flag_04_c.png
+map_bump ..\\_images\\mtl_p6_anim_nautical_flag_04\\p6_anim_nautical_flag_01_n.png
+map_Ks ..\\_images\\mtl_p6_anim_nautical_flag_04\\~~-gp6_anim_nautical_flag_01_~46f6d4e4.png

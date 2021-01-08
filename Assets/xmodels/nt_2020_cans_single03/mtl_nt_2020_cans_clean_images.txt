@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,nt_2020_cans_clean_nml
+colorMap,~~-gnt_2020_cans_clean_col-rg~665b42e1

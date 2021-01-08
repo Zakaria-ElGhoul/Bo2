@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,p6_pool_lounge_chair_acc_n
+colorMap,~-gnt_2020_kitchen_towel_01_col

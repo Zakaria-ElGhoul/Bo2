@@ -1,0 +1,6 @@
+semantic,image_name
+Vignette,vignette_3d
+LineMap,lines_3d
+unk_semantic_0x9A0936A8,~-gvcs_1
+maskMap,final_mask
+LookupMap,rts_holograph_distortion

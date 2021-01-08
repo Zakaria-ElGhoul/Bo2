@@ -1,0 +1,8 @@
+newmtl mtl_t6_wpn_c4_detonator
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_t6_wpn_c4_detonator\\~-gmtl_t6_wpn_c4_detonator_col.png
+map_bump ..\\_images\\mtl_t6_wpn_c4_detonator\\mtl_t6_wpn_c4_detonator_nml.png
+map_Ks ..\\_images\\mtl_t6_wpn_c4_detonator\\~~-gmtl_t6_wpn_c4_detonator_s~67744a6d.png

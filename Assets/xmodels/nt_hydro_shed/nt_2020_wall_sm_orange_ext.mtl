@@ -1,0 +1,8 @@
+newmtl nt_2020_wall_sm_orange_ext
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\nt_2020_wall_sm_orange_ext\\~-gnt_2020_wall_orange_ext_c.png
+map_bump ..\\_images\\nt_2020_wall_sm_orange_ext\\nt_2020_wall_small_nml.png
+map_Ks ..\\_images\\nt_2020_wall_sm_orange_ext\\~~-gnt_2020_wall_small_cos-rg~b4bc9749.png

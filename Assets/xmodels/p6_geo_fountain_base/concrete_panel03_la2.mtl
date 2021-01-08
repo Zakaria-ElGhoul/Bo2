@@ -1,0 +1,7 @@
+newmtl concrete_panel03_la2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\concrete_panel03_la2\\~~-grus_concrete_panel03_c-rg~869e97d2.png
+map_bump ..\\_images\\concrete_panel03_la2\\rus_concrete_panel03_n.png

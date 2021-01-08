@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-ghellfire_missile_spc-rgb&~85917c16
+normalMap,$identitynormalmap
+colorMap,~-ghellfire_missile_col

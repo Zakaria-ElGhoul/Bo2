@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gmetal_corrugated_wide_bar~4e879a92
+normalMap,metal_corrugated_wide_bars_n
+colorMap,~-gmetal_corrugated_wide_bars_c

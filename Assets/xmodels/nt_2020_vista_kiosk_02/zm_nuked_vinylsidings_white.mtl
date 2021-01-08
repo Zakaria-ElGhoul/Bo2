@@ -1,0 +1,8 @@
+newmtl zm_nuked_vinylsidings_white
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\zm_nuked_vinylsidings_white\\~-gzm_vinylsiding_white_c.png
+map_bump ..\\_images\\zm_nuked_vinylsidings_white\\zm_vinylsiding_yellow_n.png
+map_Ks ..\\_images\\zm_nuked_vinylsidings_white\\~~-gzm_vinylsiding_yellow_s-r~84f9f2f4.png

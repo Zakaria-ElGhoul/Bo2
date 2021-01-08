@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,potted_plant01_nml
+colorMap,~-gpotted_plant01_col

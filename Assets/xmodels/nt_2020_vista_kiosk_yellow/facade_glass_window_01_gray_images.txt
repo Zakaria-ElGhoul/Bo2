@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gfacade_glass_window_01_gr~d9a87a7e
+normalMap,facade_glass_window_01_n
+colorMap,~-gfacade_glass_window_01_gray_c

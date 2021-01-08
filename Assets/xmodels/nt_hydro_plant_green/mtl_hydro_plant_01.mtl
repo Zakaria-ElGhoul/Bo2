@@ -1,0 +1,8 @@
+newmtl mtl_hydro_plant_01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_hydro_plant_01\\~-gmtl_hydro_plant_01_c.png
+map_bump ..\\_images\\mtl_hydro_plant_01\\vase_with_roses_nml.png
+map_Ks ..\\_images\\mtl_hydro_plant_01\\~~-gvase_with_roses_spc-rgb&~~56bb3f3b.png

@@ -1,0 +1,8 @@
+newmtl mtl_nt_2020_light_fixture
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_nt_2020_light_fixture\\~-gap_chrome_col.png
+map_bump ..\\_images\\mtl_nt_2020_light_fixture\\nt_2020_light_fixture_n.png
+map_Ks ..\\_images\\mtl_nt_2020_light_fixture\\~~-gnt_2020_plastic_blue_spc-~fc443aac.png

@@ -1,0 +1,7 @@
+newmtl mtl_p_glo_clock_lrg
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_p_glo_clock_lrg\\~~-gp_glo_clock_lrg_c-rgb&~-r~99af8d0e.png
+map_bump ..\\_images\\mtl_p_glo_clock_lrg\\p_glo_clock_lrg_n.png

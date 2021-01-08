@@ -1,0 +1,8 @@
+newmtl mtl_t6_attach_optic_rmr
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_t6_attach_optic_rmr\\~-gmtl_t6_attach_optic_rmr_col.png
+map_bump ..\\_images\\mtl_t6_attach_optic_rmr\\mtl_t6_attach_optic_rmr_nml.png
+map_Ks ..\\_images\\mtl_t6_attach_optic_rmr\\~~-gmtl_t6_attach_optic_rmr_s~2d7c01a4.png

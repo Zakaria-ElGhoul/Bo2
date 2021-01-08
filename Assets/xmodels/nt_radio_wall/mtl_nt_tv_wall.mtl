@@ -1,0 +1,8 @@
+newmtl mtl_nt_tv_wall
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_nt_tv_wall\\~-gnt_tv_wall_c.png
+map_bump ..\\_images\\mtl_nt_tv_wall\\nt_tv_wall_n.png
+map_Ks ..\\_images\\mtl_nt_tv_wall\\~~-gnt_tv_wall_s-rgb&~-rnt_tv~a0da23eb.png

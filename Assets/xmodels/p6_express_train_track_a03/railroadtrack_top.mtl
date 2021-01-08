@@ -1,0 +1,8 @@
+newmtl railroadtrack_top
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\railroadtrack_top\\~-grailroadtrack_top.png
+map_bump ..\\_images\\railroadtrack_top\\railroadtrack_top_bump.png
+map_Ks ..\\_images\\railroadtrack_top\\~~-grailroadtrack_top_spec-rg~72e5d5e2.png

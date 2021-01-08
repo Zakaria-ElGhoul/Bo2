@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gnt_2020_plastic_blue_spc-~35b2c8d5
+normalMap,$identitynormalmap
+colorMap,~-gnt_2020_metal_beige_c

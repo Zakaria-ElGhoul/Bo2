@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gnt_2020_sign_truck_01_spc~ffeca100
+normalMap,$identitynormalmap
+colorMap,~-gnt_2020_sign_truck_01_col

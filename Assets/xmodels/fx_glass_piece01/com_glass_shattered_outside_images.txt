@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gglass_shattered_spc-rgb&~~ddb1b9b0
+normalMap,glass_shattered_nml
+colorMap,~-gglass_shattered_col

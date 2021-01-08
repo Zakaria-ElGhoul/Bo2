@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,d_vista_desert_mountain_01_n
+colorMap,~-gd_vista_desert_mountain_01_c

@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gsoccer_ball01_spc-rgb&~-r~83afdb34
+normalMap,soccer_ball01_nml
+colorMap,~-gsoccer_ball01_col

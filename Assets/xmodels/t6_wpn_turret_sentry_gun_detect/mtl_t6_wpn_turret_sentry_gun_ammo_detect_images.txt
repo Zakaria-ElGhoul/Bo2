@@ -1,0 +1,3 @@
+semantic,image_name
+Color_Map,mtl_t6_wpn_turret_sentry_gun_ammo_col
+unk_semantic_0xD29BFA97,sw_radiant_default

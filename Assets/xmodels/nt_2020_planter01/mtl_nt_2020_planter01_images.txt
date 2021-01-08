@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,nt_2020_planter_01_nml
+colorMap,~~-gnt_2020_planter_01_col-rg~bf20c720

@@ -1,0 +1,8 @@
+newmtl global_glass
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\global_glass\\~-gglobal_window_glass_c.png
+map_bump ..\\_images\\global_glass\\$identitynormalmap.png
+map_Ks ..\\_images\\global_glass\\~~-gglobal_window_glass_s-rgb~a03e8509.png

@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gweapon_at4_spec-rgb&~-rwe~23144b4a
+normalMap,$identitynormalmap
+colorMap,~-gweapon_at4_col

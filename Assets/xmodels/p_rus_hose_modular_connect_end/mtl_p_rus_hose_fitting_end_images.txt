@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,p_rus_hose_fitting_end_n
+colorMap,~~-gp_rus_hose_fitting_end_c-~9f6c11f1

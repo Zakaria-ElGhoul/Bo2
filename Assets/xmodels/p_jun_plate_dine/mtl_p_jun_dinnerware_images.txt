@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,p_jun_dinnerware_n
+colorMap,~~-gp_jun_dinnerware_c-rgb&~-~b8d99368

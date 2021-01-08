@@ -1,0 +1,8 @@
+newmtl mtl_veh_t6_rcxd_extra_bits
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_veh_t6_rcxd_extra_bits\\~-gveh_t6_rcxd_extras_c.png
+map_bump ..\\_images\\mtl_veh_t6_rcxd_extra_bits\\veh_t6_rcxd_extras_n.png
+map_Ks ..\\_images\\mtl_veh_t6_rcxd_extra_bits\\~~-gveh_t6_rcxd_extras_sc-rgb~671bc6ab.png

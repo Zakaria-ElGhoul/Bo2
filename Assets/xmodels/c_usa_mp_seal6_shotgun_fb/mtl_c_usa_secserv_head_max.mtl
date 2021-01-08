@@ -1,0 +1,8 @@
+newmtl mtl_c_usa_secserv_head_max
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_c_usa_secserv_head_max\\~-gc_usa_navy_head3_c.png
+map_bump ..\\_images\\mtl_c_usa_secserv_head_max\\c_usa_navy_head3_n.png
+map_Ks ..\\_images\\mtl_c_usa_secserv_head_max\\~~-gc_mul_civ_club_male_head8~59981d0e.png

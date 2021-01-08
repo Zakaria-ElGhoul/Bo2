@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-grailroadtrack_top_spec-rg~72e5d5e2
+normalMap,railroadtrack_top_bump
+colorMap,~-grailroadtrack_top

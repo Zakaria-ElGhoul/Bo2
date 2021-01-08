@@ -1,0 +1,5 @@
+semantic,image_name
+unk_semantic_0x85FD017C,c_gen_arm_rim_mask_c
+unk_semantic_0x8C297E80,~~-gc_gen_arm_clean_s-rgb&~-r~6020d698
+Normal_Map,c_gen_arm_clean_n
+Diffuse_Map,~-gc_gen_arm_camo_c

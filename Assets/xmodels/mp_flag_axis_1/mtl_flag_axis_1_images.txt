@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gglobal_color_black-rgb&~-~0bced148
+normalMap,decal_flag_n
+colorMap,~-gmp_flags_axis_1

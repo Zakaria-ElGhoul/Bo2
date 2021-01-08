@@ -1,0 +1,2 @@
+semantic,image_name
+colorMap,~-gfx_decal_character_blood_c

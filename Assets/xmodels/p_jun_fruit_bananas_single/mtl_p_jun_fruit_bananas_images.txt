@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,p_jun_fruit_bananas_n
+colorMap,~~-gp_jun_fruit_bananas_c-rgb~4ba5d70d

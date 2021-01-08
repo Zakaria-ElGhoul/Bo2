@@ -1,0 +1,5 @@
+semantic,image_name
+unk_semantic_0x85FD017C,c_gen_arm_rim_mask_norim_c
+unk_semantic_0x8C297E80,~~-gviewarm_usa_mp_seal6_bare~89be4b23
+Normal_Map,viewarm_usa_mp_seal6_barearm_n
+Diffuse_Map,~-gviewarm_usa_mp_seal6_barearm_c

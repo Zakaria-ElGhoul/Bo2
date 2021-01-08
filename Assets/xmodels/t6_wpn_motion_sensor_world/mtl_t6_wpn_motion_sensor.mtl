@@ -1,0 +1,8 @@
+newmtl mtl_t6_wpn_motion_sensor
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_t6_wpn_motion_sensor\\~-gmtl_t6_wpn_motion_sensor_col.png
+map_bump ..\\_images\\mtl_t6_wpn_motion_sensor\\mtl_t6_wpn_motion_sensor_nml.png
+map_Ks ..\\_images\\mtl_t6_wpn_motion_sensor\\~~-gmtl_t6_wpn_motion_sensor_~fe665eb4.png

@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gnt_2020_lava_lamp_chrome_~9ab5cbea
+normalMap,$identitynormalmap
+colorMap,~-gnt_2020_lava_lamp_chrome_col

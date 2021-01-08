@@ -1,0 +1,8 @@
+newmtl mtl_c_usa_milcas_mcknight_head_camo
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_c_usa_milcas_mcknight_head_camo\\~-gc_usa_milcas_mcknight_head_camo_c.png
+map_bump ..\\_images\\mtl_c_usa_milcas_mcknight_head_camo\\c_usa_milcas_mcknight_head_n.png
+map_Ks ..\\_images\\mtl_c_usa_milcas_mcknight_head_camo\\~~-gc_usa_milcas_mcknight_hea~adb169c4.png

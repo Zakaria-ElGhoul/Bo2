@@ -1,0 +1,5 @@
+semantic,image_name
+unk_semantic_0x85FD017C,c_gen_arm_rim_mask_c
+unk_semantic_0x8C297E80,~~-gc_usa_mp_seal6_shotgun_ar~983c1e11
+Normal_Map,c_usa_mp_seal6_shotgun_arms_n
+Diffuse_Map,~-gc_usa_mp_seal6_shotgun_arms_c

@@ -1,0 +1,8 @@
+newmtl mtl_nt_2020_dishwasher_01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_nt_2020_dishwasher_01\\~-gnt_dishwasher_01_c.png
+map_bump ..\\_images\\mtl_nt_2020_dishwasher_01\\nt_dishwasher_01_n.png
+map_Ks ..\\_images\\mtl_nt_2020_dishwasher_01\\~~-gnt_dishwasher_01_s-rgb&~-~7dcde598.png

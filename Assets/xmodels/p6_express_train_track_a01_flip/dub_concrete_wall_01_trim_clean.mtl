@@ -1,0 +1,7 @@
+newmtl dub_concrete_wall_01_trim_clean
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\dub_concrete_wall_01_trim_clean\\~~-gdub_concrete_wall_01_clea~d8d17c3c.png
+map_bump ..\\_images\\dub_concrete_wall_01_trim_clean\\pb_concrete_wall_01_trim_nml.png

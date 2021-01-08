@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gmat_veh_t6_body_s-rgb&~-r~cd9f601d
+normalMap,mat_veh_t6_body_n
+colorMap,~-gmat_veh_t6_body_c

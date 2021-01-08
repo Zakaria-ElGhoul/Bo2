@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gmtl_t6_wpn_c4_spc-rgb&~-r~ce9d78f1
+normalMap,mtl_t6_wpn_c4_nml
+colorMap,~-gmtl_t6_wpn_c4_col

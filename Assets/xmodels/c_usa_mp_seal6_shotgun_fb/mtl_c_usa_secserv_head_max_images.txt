@@ -1,0 +1,6 @@
+semantic,image_name
+unk_semantic_0x85FD017C,c_mul_civ_club_male_head8_m
+unk_semantic_0x8C297E80,~~-gc_mul_civ_club_male_head8~59981d0e
+Normal_Map,c_usa_navy_head3_n
+unk_semantic_0xB2BA2D9E,skin_pore_detail_test
+Diffuse_Map,~-gc_usa_navy_head3_c

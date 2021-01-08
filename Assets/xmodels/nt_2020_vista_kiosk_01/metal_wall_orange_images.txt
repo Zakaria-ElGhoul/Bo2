@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-grus_metal_orange_q-rgb&~-~2c4e727e
+normalMap,rus_metal_orange_n
+colorMap,~-grus_metal_orange_c

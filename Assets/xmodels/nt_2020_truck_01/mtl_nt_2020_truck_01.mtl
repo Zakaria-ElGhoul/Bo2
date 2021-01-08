@@ -1,0 +1,8 @@
+newmtl mtl_nt_2020_truck_01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_nt_2020_truck_01\\~-gdelivery_truck_c.png
+map_bump ..\\_images\\mtl_nt_2020_truck_01\\delivery_truck_n.png
+map_Ks ..\\_images\\mtl_nt_2020_truck_01\\~~-gdelivery_truck_s-rgb&~-rd~bcd5b108.png

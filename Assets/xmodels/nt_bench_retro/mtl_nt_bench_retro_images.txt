@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gnt_bench_retro_s-rgb&~-rn~dae5ff36
+normalMap,nt_bench_retro_n
+colorMap,~-gnt_bench_retro_c

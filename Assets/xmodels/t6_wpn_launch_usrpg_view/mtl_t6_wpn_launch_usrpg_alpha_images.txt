@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x8C297E80,~~-gmtl_t6_wpn_launch_usrpg_a~fde34792
+Normal_Map,mtl_t6_wpn_launch_usrpg_alpha_nml
+Color_Map,~-gmtl_t6_wpn_launch_usrpg_alpha_col

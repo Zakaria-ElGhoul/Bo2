@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,flag_base_n
+colorMap,~~-gflag_base_c-rgb&~-rflag_b~a082da38

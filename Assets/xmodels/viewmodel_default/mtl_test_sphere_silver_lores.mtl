@@ -1,0 +1,8 @@
+newmtl mtl_test_sphere_silver_lores
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_test_sphere_silver_lores\\~-gblack_8x8.png
+map_bump ..\\_images\\mtl_test_sphere_silver_lores\\$identitynormalmap.png
+map_Ks ..\\_images\\mtl_test_sphere_silver_lores\\~~-gwhite-rgb&~-rglobal_rough~302febe0.png

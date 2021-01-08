@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,pb_plant_pot_nml
+colorMap,~~-gpb_plant_pot_col-rgb&~-rp~6467f5a9

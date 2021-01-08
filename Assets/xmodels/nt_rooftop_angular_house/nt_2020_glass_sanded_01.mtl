@@ -1,0 +1,8 @@
+newmtl nt_2020_glass_sanded_01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\nt_2020_glass_sanded_01\\~-gap_glass_sanded_col.png
+map_bump ..\\_images\\nt_2020_glass_sanded_01\\$identitynormalmap.png
+map_Ks ..\\_images\\nt_2020_glass_sanded_01\\~~-gap_glass_sanded_spc-rgb&~~18bf8dd9.png

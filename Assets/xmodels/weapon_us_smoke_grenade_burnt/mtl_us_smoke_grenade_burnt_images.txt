@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gus_smoke_grenade_burnt_s-~8f99918a
+normalMap,$identitynormalmap
+colorMap,~-gus_smoke_grenade_burnt_c

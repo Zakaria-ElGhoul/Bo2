@@ -1,0 +1,8 @@
+newmtl metal_yellow_trim_01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\metal_yellow_trim_01\\~-gmetal_yellow_trim_01_c.png
+map_bump ..\\_images\\metal_yellow_trim_01\\metal_yellow_trim_01_n.png
+map_Ks ..\\_images\\metal_yellow_trim_01\\~~-gmetal_yellow_trim_01_g-rg~e2cc0c7f.png

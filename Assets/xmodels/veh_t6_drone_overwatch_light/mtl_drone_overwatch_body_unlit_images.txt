@@ -1,0 +1,2 @@
+semantic,image_name
+colorMap,veh_t6_drone_overwatch_light_c

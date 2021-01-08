@@ -1,0 +1,8 @@
+newmtl plastic_vinylsiding_grey
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\plastic_vinylsiding_grey\\~-gus_art_wall_woodsiding_c.png
+map_bump ..\\_images\\plastic_vinylsiding_grey\\us_art_wall_woodsiding_n.png
+map_Ks ..\\_images\\plastic_vinylsiding_grey\\~~-gus_art_wall_woodsiding_s-~973f129d.png

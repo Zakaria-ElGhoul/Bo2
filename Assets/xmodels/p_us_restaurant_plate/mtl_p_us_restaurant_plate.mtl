@@ -1,0 +1,7 @@
+newmtl mtl_p_us_restaurant_plate
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_p_us_restaurant_plate\\~~-gp_us_restaurant_plate_c-r~5e56318d.png
+map_bump ..\\_images\\mtl_p_us_restaurant_plate\\p_us_restaurant_plate_n.png

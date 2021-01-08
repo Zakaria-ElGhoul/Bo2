@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gjun_art_metal_brushed_s-r~e7f4f905
+normalMap,jun_art_metal_brushed_n
+colorMap,~-gjun_art_metal_brushed_c

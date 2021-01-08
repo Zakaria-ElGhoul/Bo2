@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gveh_t6_drone_quad_rotor_b~d85423b7
+normalMap,veh_t6_drone_quad_rotor_body_n
+colorMap,~-gveh_t6_drone_quad_rotor_body_c

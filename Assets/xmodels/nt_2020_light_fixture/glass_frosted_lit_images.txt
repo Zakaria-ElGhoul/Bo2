@@ -1,0 +1,2 @@
+semantic,image_name
+colorMap,~-gglobal_window_glass_frosted_lit_c

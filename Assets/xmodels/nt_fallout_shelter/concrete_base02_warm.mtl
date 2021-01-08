@@ -1,0 +1,7 @@
+newmtl concrete_base02_warm
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\concrete_base02_warm\\~~-grus_concrete01_c-rgb&~-rr~3232bac1.png
+map_bump ..\\_images\\concrete_base02_warm\\rus_concrete_n.png

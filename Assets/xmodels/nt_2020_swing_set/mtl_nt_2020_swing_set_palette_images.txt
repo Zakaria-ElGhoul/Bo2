@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,swing_set_palette_n
+colorMap,~~-gswing_set_palette_c-rgb&~~a0b9eda3

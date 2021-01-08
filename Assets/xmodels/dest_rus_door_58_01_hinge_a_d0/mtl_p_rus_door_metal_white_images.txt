@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,p_rus_door_white_n
+colorMap,~~-gp_rus_door_white_c-rgb&~-~2335d38b

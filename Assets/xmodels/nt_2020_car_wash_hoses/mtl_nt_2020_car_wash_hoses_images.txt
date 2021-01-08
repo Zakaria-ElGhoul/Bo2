@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,$identitynormalmap
+colorMap,~~-gcar_wash_hoses_c-rgb&~-rc~5ab8986f

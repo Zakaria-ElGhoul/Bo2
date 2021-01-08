@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,mtl_p6_foliage_hedge_n
+colorMap,~-gmtl_p6_foliage_hedge_c

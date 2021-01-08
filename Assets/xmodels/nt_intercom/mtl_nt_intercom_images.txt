@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gnt_intercom_s-rgb&~-rnt_i~299cdab0
+normalMap,nt_intercom_n
+colorMap,~-gnt_intercom_c

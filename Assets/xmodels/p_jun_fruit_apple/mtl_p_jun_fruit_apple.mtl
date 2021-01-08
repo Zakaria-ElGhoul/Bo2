@@ -1,0 +1,7 @@
+newmtl mtl_p_jun_fruit_apple
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_p_jun_fruit_apple\\~~-gp_jun_fruit_apple_c-rgb&~~875fa369.png
+map_bump ..\\_images\\mtl_p_jun_fruit_apple\\p_jun_fruit_apple_n.png

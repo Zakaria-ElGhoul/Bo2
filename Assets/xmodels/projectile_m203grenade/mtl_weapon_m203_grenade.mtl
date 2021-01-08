@@ -1,0 +1,8 @@
+newmtl mtl_weapon_m203_grenade
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_weapon_m203_grenade\\~-gweapon_m203_grenade_col.png
+map_bump ..\\_images\\mtl_weapon_m203_grenade\\$identitynormalmap.png
+map_Ks ..\\_images\\mtl_weapon_m203_grenade\\~~-gweapon_m203_grenade_spc-r~208d68a0.png

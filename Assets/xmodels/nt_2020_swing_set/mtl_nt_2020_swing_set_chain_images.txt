@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gswing_set_chain_g-rgb&~-r~2fe7dcb6
+normalMap,swing_set_chain_n
+colorMap,~-gswing_set_chain_c

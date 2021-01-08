@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,veh_t6_rcxd_wheel_n
+colorMap,~~-gveh_t6_rcxd_wheel_c-rgb&~~718c2ea4

@@ -1,0 +1,5 @@
+semantic,image_name
+unk_semantic_0xDD64512E,~-gkillstreak_screen_working_top2
+unk_semantic_0xDD64DD0D,~-gp6_screen_killstreaks_top_c
+unk_semantic_0xDD65596C,~-gmtl_p6_sign_parkgarage_tal~87bcaac8
+unk_semantic_0xDD6A264B,~-gp6_screen_killstreaks_background_c

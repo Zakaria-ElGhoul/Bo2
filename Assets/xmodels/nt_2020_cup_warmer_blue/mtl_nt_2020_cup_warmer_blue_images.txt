@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gnt_2020_cup_warmer_s-rgb&~65d05bf1
+normalMap,nt_2020_cup_warmer_n
+colorMap,~-gnt_2020_cup_warmer_blue_c

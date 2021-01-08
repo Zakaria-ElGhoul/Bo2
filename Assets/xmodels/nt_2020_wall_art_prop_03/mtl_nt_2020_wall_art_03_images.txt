@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,nt_2020_wall_art_prop_03_nml
+colorMap,~~-gnt_2020_wall_art_prop_03_~05d3899b

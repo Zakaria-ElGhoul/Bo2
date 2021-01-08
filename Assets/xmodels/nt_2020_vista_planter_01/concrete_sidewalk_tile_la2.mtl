@@ -1,0 +1,7 @@
+newmtl concrete_sidewalk_tile_la2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\concrete_sidewalk_tile_la2\\~~-gconcrete_sidewalk_tile01_~6fd6289c.png
+map_bump ..\\_images\\concrete_sidewalk_tile_la2\\concrete_sidewalk_tile01_n.png

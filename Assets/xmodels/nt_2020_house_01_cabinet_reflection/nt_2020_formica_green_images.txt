@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gmetal_white_col-rgb&~-rnt~d96fc453
+normalMap,$identitynormalmap
+colorMap,~-gnt_2020_kitchen_cabinet_ho~ca99f914

@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gnuketown_car_interior_dmg~1edeefaa
+normalMap,nuketown_car_interior_dmg_n
+colorMap,~-gnuketown_car_interior_dmg_c

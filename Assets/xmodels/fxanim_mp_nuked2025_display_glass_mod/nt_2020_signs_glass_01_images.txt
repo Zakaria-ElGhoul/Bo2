@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gnt_signs_glass_01_s-rgb&~~84d30b6e
+normalMap,nt_signs_glass_01_n
+colorMap,~-gnt_signs_glass_01_c

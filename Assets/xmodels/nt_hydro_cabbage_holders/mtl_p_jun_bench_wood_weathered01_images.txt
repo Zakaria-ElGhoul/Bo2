@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,p_jun_bench_wood_01_n
+colorMap,~~-gp_jun_bench_wood_01_weath~029c5281

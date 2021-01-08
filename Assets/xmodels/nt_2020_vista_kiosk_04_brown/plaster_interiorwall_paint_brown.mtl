@@ -1,0 +1,8 @@
+newmtl plaster_interiorwall_paint_brown
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\plaster_interiorwall_paint_brown\\~-gplaster_interiorwall_paint~5fe8577f.png
+map_bump ..\\_images\\plaster_interiorwall_paint_brown\\plaster_interiorwall_paint_white_nml.png
+map_Ks ..\\_images\\plaster_interiorwall_paint_brown\\~~-gplaster_interiorwall_pain~4f6b12de.png

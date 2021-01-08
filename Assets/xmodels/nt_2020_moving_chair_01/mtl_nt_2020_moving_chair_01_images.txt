@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,nt_moving_chair_01_n
+colorMap,~~-gnt_moving_chair_01_c-rgb&~7f12dc50

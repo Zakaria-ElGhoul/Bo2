@@ -1,0 +1,5 @@
+semantic,image_name
+unk_semantic_0x85FD017C,c_gen_arm_rim_mask_norim_c
+unk_semantic_0x8C297E80,~~-gc_gen_insidemouth_s-rgb&~~8dbd539a
+Normal_Map,c_gen_insidemouth_n
+Diffuse_Map,~-gc_gen_insidemouth_c

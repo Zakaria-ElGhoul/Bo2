@@ -1,0 +1,2 @@
+semantic,image_name
+colorMap,~-glight_rice_paper_orange_c

@@ -1,0 +1,7 @@
+newmtl mtl_p6_rug_modern02
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_p6_rug_modern02\\~-gp6_rug_modern02_c.png
+map_bump ..\\_images\\mtl_p6_rug_modern02\\global_normal_flat_16x16.png

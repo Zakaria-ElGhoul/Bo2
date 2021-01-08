@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,p_glo_scavenger_pack_n
+colorMap,~~-gp_glo_scavenger_pack_c-rg~3708ee3a

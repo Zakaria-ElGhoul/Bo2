@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-galien_spc-rgb&~-ralien_co~481818ee
+normalMap,alien_nml
+colorMap,~-galien_col

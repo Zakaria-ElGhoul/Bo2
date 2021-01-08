@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gpolished_metal_spec-rgb&~~c995a98f
+normalMap,$identitynormalmap
+colorMap,~-gpolished_metal

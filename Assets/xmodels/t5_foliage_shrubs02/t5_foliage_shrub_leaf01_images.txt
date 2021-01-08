@@ -1,0 +1,2 @@
+semantic,image_name
+colorMap,~-gt5_foliage_shrub_leaf01_c

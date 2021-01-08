@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,mtl_t6_attach_optic_scope_inside_nml
+colorMap,~-gmtl_t6_attach_optic_scope_~c06422f6

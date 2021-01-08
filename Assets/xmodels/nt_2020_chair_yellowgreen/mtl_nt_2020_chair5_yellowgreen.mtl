@@ -1,0 +1,8 @@
+newmtl mtl_nt_2020_chair5_yellowgreen
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_nt_2020_chair5_yellowgreen\\~-gnt_2020_chair_yellowgreen_col.png
+map_bump ..\\_images\\mtl_nt_2020_chair5_yellowgreen\\chair5_nml.png
+map_Ks ..\\_images\\mtl_nt_2020_chair5_yellowgreen\\~~-gnt_2020_chair5_spc-rgb&~-~ba10eb76.png

@@ -1,0 +1,6 @@
+newmtl nt_2020_truck_decal_03_mult
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\nt_2020_truck_decal_03_mult\\nt_2020_sign_truck_03_col.png

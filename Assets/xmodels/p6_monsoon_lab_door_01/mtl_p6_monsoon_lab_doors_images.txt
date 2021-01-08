@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,p6_monsoon_lab_doors_n
+colorMap,~~-gp6_monsoon_lab_doors_c-rg~35bad1fc

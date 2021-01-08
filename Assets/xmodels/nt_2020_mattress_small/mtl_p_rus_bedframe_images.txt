@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gp_rus_bedframe_q-rgb&~-rp~8bad10ab
+normalMap,p_rus_bedframe_n
+colorMap,~-gp_rus_bedframe_c

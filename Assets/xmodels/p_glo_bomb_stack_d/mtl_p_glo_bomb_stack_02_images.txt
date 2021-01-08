@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,p_glo_bomb_stack_02_n
+colorMap,~~-gp_glo_bomb_stack_02_c-rgb~3318c37d

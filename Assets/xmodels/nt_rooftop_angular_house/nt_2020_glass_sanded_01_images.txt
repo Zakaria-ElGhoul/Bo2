@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gap_glass_sanded_spc-rgb&~~18bf8dd9
+normalMap,$identitynormalmap
+colorMap,~-gap_glass_sanded_col

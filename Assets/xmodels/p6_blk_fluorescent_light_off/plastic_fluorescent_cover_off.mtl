@@ -1,0 +1,7 @@
+newmtl plastic_fluorescent_cover_off
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\plastic_fluorescent_cover_off\\~~-gplastic_fluorescent_cover~de7b5c51.png
+map_bump ..\\_images\\plastic_fluorescent_cover_off\\global_normal_flat_16x16.png

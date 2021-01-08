@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,wall_clock_01_n
+colorMap,~~-gwall_clock_01_c-rgb&~-rwa~8fc89d51

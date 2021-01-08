@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x8C297E80,~~-gc_usa_mp_seal6_smg_gear_s~bf1ff646
+Normal_Map,c_usa_mp_seal6_smg_gear_n
+Diffuse_Map,~-gc_usa_mp_seal6_smg_gear_c

@@ -1,0 +1,6 @@
+newmtl mtl_fx_decal_character_blood
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_fx_decal_character_blood\\~-gfx_decal_character_blood_c.png

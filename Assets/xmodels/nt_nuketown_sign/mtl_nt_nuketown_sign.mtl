@@ -1,0 +1,8 @@
+newmtl mtl_nt_nuketown_sign
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_nt_nuketown_sign\\~-gmtl_nt_nuketown_sign01_c.png
+map_bump ..\\_images\\mtl_nt_nuketown_sign\\$identitynormalmap.png
+map_Ks ..\\_images\\mtl_nt_nuketown_sign\\~~-gmtl_nt_nuketown_sign01_s-~249ccfd4.png

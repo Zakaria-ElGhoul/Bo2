@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,mtl_nt_2020_dolly_wheel_n
+colorMap,~~-gmtl_nt_2020_dolly_wheel_c~4fd6ac3a

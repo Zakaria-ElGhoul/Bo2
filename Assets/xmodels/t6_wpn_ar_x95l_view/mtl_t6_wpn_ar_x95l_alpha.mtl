@@ -1,0 +1,7 @@
+newmtl mtl_t6_wpn_ar_x95l_alpha
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_bump ..\\_images\\mtl_t6_wpn_ar_x95l_alpha\\mtl_t6_wpn_ar_x95l_alpha_nml.png
+map_Ks ..\\_images\\mtl_t6_wpn_ar_x95l_alpha\\~~-gmtl_t6_wpn_ar_x95l_alpha_~5a76e993.png

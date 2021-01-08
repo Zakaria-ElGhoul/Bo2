@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gmtl_t6_wpn_drop_box_spc-r~03f2c435
+normalMap,mtl_t6_wpn_drop_box_nml
+colorMap,~-gmtl_t6_wpn_drop_box_col

@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,nt_2020_wood_cream_n
+colorMap,~~-gnt_2020_wood_cream_c-rgb&~09e56a8d

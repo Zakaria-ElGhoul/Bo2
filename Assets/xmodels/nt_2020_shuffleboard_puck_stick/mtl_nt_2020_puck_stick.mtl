@@ -1,0 +1,7 @@
+newmtl mtl_nt_2020_puck_stick
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_nt_2020_puck_stick\\~~-gnt_2020_shuffleboard_puck~9c6a4d68.png
+map_bump ..\\_images\\mtl_nt_2020_puck_stick\\$identitynormalmap.png

@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,metal_stainless_steel_grove_n
+colorMap,~-gmetal_stainless_steel_grov~4a78084a

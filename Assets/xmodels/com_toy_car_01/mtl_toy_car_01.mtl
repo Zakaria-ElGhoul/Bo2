@@ -1,0 +1,8 @@
+newmtl mtl_toy_car_01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_toy_car_01\\~-gmtl_toy_car_01.png
+map_bump ..\\_images\\mtl_toy_car_01\\mtl_toy_car_01_bump.png
+map_Ks ..\\_images\\mtl_toy_car_01\\~~-gmtl_toy_car_01_spec-rgb&~~77c0dce8.png

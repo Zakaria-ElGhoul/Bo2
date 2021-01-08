@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,p_pent_lamp_desk_n
+colorMap,~~-gnt_2020_lamp_desk_c-rgb&~~828c639e

@@ -1,0 +1,5 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gmtl_t6_attach_pistol_sile~90e0879b
+normalMap,mtl_t6_attach_pistol_silencer_nml
+colorMap,~-gmtl_t6_attach_pistol_silencer_col
+unk_semantic_0xBDBA9390,weapon_camo_neutral

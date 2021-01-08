@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gnt_2020_plastic_blue_cos-~2ab1d5ca
+normalMap,nt_2020_floor_kitchen_nml
+colorMap,~-gnt_2020_metal_stainless_col

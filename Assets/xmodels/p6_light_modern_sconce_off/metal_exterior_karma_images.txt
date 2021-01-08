@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gmetal_exterior_karma_s-rg~fe84d525
+normalMap,global_normal_flat_16x16
+colorMap,~-gmetal_exterior_karma_c

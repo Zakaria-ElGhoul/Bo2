@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,nt_2020_concrete_formed_nml
+colorMap,~~-gnt_2020_concrete_formed_c~b77cba72

@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,$identitynormalmap
+colorMap,~~-gnt_2020_house_04_red_roof~d5f49c55

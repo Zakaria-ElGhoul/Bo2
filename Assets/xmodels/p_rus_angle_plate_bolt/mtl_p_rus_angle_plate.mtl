@@ -1,0 +1,7 @@
+newmtl mtl_p_rus_angle_plate
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_p_rus_angle_plate\\~~-gp_rus_angle_plate_c-rgb&~~74d20ed3.png
+map_bump ..\\_images\\mtl_p_rus_angle_plate\\$identitynormalmap.png

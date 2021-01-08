@@ -1,0 +1,3 @@
+semantic,image_name
+normalMap,p_pent_cords_n
+colorMap,~-gp_pent_cords_c

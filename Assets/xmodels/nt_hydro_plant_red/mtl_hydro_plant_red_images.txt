@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-gvase_with_roses_spc-rgb&~~56bb3f3b
+normalMap,vase_with_roses_nml
+colorMap,~-gmtl_hydro_plant_red_c

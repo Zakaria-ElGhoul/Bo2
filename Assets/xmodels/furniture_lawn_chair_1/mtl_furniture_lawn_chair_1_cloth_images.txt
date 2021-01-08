@@ -1,0 +1,5 @@
+semantic,image_name
+unk_semantic_0x34ECCCB3,~~-glawn_chair_1_spc-rgb&~-rl~9b5f495b
+normalMap,lawn_chair_1_nml
+colorMap,~-glawn_chair_1_col
+detailMap,cloth01_nml

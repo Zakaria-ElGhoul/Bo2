@@ -1,0 +1,8 @@
+newmtl mtl_p6_dogtags_friend
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\mtl_p6_dogtags_friend\\~-gdogtags_c.png
+map_bump ..\\_images\\mtl_p6_dogtags_friend\\dogtags_n.png
+map_Ks ..\\_images\\mtl_p6_dogtags_friend\\~~-gdogtags_red_s-rgb&~-rdogt~3bade186.png
