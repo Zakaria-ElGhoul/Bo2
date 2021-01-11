@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gmtl_nt_2020_glass_table_s~7ae5889a
-normalMap,$identitynormalmap
-colorMap,~-gmtl_nt_2020_glass_table_col

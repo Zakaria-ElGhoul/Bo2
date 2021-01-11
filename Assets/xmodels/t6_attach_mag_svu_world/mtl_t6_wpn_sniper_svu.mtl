@@ -1,8 +1,0 @@
-newmtl mtl_t6_wpn_sniper_svu
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Ks 0.50 0.50 0.50
-map_Kd ..\\_images\\mtl_t6_wpn_sniper_svu\\~-gmtl_t6_wpn_sniper_svu_col.png
-map_bump ..\\_images\\mtl_t6_wpn_sniper_svu\\mtl_t6_wpn_sniper_svu_nml.png
-map_Ks ..\\_images\\mtl_t6_wpn_sniper_svu\\~~-gmtl_t6_wpn_sniper_svu_spc~d35d6ab1.png

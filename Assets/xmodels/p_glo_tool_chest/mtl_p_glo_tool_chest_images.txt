@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,$identitynormalmap
-colorMap,~~-gp_glo_tool_chest_c-rgb&~-~2a3fba3a

@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,$identitynormalmap
-colorMap,~-gmetal_stainless_steel_g

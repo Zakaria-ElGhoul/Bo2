@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gnt_trash_compactor_s-rgb&~6389854b
-normalMap,nt_trash_compactor_n
-colorMap,~-gnt_trash_compactor_c

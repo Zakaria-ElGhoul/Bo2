@@ -1,5 +1,0 @@
-semantic,image_name
-unk_semantic_0xE5FAA87,~-rnt_2020_plastic_blue_cos&$~e44d43cc
-unk_semantic_0xD28C20CC,~-gnt_2020_plastic_blue_spc
-unk_semantic_0xEA0AA86D,nt_entertainment_center_ao
-Diffuse_Map,~-gnt_2020_plastic_cream_col

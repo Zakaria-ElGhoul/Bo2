@@ -1,5 +1,0 @@
-semantic,image_name
-unk_semantic_0x8C297E80,~~-gveh_t6_air_fa38_cockpit_s~ba73dd91
-Normal_Map,veh_t6_air_fa38_cockpit_normal_low
-colorMap,~-gveh_t6_air_fa38_cockpit_color_low
-unk_semantic_0xB2BA2D9E,global_normal_flat_16x16

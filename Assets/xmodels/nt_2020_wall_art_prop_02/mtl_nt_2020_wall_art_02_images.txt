@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,nt_2020_wall_art_prop_02_nml
-colorMap,~~-gnt_2020_wall_art_prop_02_~3ad05d3c

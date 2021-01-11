@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gnt_hydro_shed_s-rgb&~-rnt~9bad5c51
-normalMap,$identitynormalmap
-colorMap,~-gnt_hydro_shed_c

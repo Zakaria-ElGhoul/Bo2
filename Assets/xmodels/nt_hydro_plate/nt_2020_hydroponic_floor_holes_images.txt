@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-ghydroponic_floor_holes_sp~f4129f83
-normalMap,hydroponic_floor_holes_n
-colorMap,~-ghydroponic_floor_holes_c

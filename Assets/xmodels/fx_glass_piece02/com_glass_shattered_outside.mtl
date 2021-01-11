@@ -1,8 +1,0 @@
-newmtl com_glass_shattered_outside
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Ks 0.50 0.50 0.50
-map_Kd ..\\_images\\com_glass_shattered_outside\\~-gglass_shattered_col.png
-map_bump ..\\_images\\com_glass_shattered_outside\\glass_shattered_nml.png
-map_Ks ..\\_images\\com_glass_shattered_outside\\~~-gglass_shattered_spc-rgb&~~ddb1b9b0.png

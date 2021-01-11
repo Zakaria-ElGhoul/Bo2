@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,us_art_wall_vinylsiding_n
-colorMap,~~-gus_art_wall_vinylsiding_w~e0a1a9aa

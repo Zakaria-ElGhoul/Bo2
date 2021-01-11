@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gt5_veh_rcbomb_allies_spec~99976c8f
-normalMap,t5_veh_rcbomb_allies_normal
-colorMap,~-gt5_veh_rcbomb_allies_color

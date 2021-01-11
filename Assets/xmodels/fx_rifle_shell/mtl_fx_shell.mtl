@@ -1,8 +1,0 @@
-newmtl mtl_fx_shell
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Ks 0.50 0.50 0.50
-map_Kd ..\\_images\\mtl_fx_shell\\~-gfx_shell_col.png
-map_bump ..\\_images\\mtl_fx_shell\\fx_shell_nml.png
-map_Ks ..\\_images\\mtl_fx_shell\\~~-gfx_shell_spc-rgb&~-rfx_sh~7097a0cb.png

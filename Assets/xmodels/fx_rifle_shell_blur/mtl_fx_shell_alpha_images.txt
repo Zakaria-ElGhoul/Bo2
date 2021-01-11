@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x8C297E80,~~-gfx_shell_spc-rgb&~-rfx_sh~d0e9df3d
-Normal_Map,fx_shell_nml
-Color_Map,~-gfx_shell_col

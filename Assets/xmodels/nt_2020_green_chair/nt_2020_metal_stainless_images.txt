@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gmetal_stainless_steel_s-r~8ec27d33
-normalMap,$identitynormalmap
-colorMap,~-gmetal_stainless_steel_c

@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-geb_art_floor_stone_tile_s~80fe9036
-normalMap,eb_art_floor_stone_tile_n
-colorMap,~-geb_art_floor_stone_tile_c

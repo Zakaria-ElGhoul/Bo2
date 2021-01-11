@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gmetal_aluminum01_spc-rgb&~29b66870
-normalMap,metal_aluminum01_nml
-colorMap,~-gmetal_aluminum01_col

@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gnt_2020_wall_art_04_s-rgb~285752c0
-normalMap,$identitynormalmap
-colorMap,~-gnt_2020_wall_art_04_c

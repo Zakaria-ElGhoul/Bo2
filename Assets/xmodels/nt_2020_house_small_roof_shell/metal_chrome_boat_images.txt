@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gmetal_chrome_boat_s-rgb&~~1f2579ab
-normalMap,$identitynormalmap
-colorMap,~-gmetal_chrome_boat_c

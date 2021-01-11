@@ -1,8 +1,0 @@
-newmtl mtl_t5_veh_rcbomb_allies
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Ks 0.50 0.50 0.50
-map_Kd ..\\_images\\mtl_t5_veh_rcbomb_allies\\~-gt5_veh_rcbomb_allies_color.png
-map_bump ..\\_images\\mtl_t5_veh_rcbomb_allies\\t5_veh_rcbomb_allies_normal.png
-map_Ks ..\\_images\\mtl_t5_veh_rcbomb_allies\\~~-gt5_veh_rcbomb_allies_spec~99976c8f.png

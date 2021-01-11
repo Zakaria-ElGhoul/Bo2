@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,$identitynormalmap
-colorMap,~~-gp_rus_angle_plate_c-rgb&~~74d20ed3

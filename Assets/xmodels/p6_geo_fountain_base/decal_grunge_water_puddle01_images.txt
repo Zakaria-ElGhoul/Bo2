@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gjun_dec_water_puddle01_s-~7b1d5cfe
-normalMap,$identitynormalmap
-colorMap,~-gjun_dec_water_puddle01_c

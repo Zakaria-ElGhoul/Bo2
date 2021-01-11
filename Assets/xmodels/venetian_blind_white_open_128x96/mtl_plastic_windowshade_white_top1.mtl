@@ -1,7 +1,0 @@
-newmtl mtl_plastic_windowshade_white_top1
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Ks 0.50 0.50 0.50
-map_Kd ..\\_images\\mtl_plastic_windowshade_white_top1\\~~-gvenetian_top_white_col-rg~198ab0b0.png
-map_bump ..\\_images\\mtl_plastic_windowshade_white_top1\\venetian_top_white_nml.png

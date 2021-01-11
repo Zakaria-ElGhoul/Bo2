@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,pipe_ceramic_holes_n
-colorMap,~~-gpipe_ceramic_holes_col-rg~5850f8c2

@@ -1,8 +1,0 @@
-newmtl railroadtrack_side
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Ks 0.50 0.50 0.50
-map_Kd ..\\_images\\railroadtrack_side\\~-grailroadtrack_side.png
-map_bump ..\\_images\\railroadtrack_side\\railroadtrack_side_bump.png
-map_Ks ..\\_images\\railroadtrack_side\\~~-grailroadtrack_side_spec-r~bd24d173.png

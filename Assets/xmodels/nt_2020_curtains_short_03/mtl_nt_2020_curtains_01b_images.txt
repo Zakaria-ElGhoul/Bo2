@@ -1,4 +1,0 @@
-semantic,image_name
-normalMap,p_pent_curtains_n
-colorMap,~-gnt_2020_curtains_yellowgreen_col
-detailMap,detail_map_canvas_n

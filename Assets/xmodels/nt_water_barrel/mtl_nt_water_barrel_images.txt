@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gnt_water_barrel_s-rgb&~-r~42e37f02
-normalMap,nt_water_barrel_n
-colorMap,~-gnt_water_barrel_c

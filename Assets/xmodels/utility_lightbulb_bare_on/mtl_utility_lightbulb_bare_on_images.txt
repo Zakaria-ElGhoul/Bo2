@@ -1,2 +1,0 @@
-semantic,image_name
-colorMap,~-gutility_lightbulb_bare_on_col

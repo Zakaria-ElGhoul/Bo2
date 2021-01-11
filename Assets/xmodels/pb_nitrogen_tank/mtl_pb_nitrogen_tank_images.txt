@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gnitrogen_tank_spc-rgb&$black-l
-normalMap,nitrogen_tank_nlm
-colorMap,~-gnitrogen_tank_col

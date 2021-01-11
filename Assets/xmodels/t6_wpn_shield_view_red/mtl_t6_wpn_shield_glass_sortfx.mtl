@@ -1,7 +1,0 @@
-newmtl mtl_t6_wpn_shield_glass_sortfx
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Ks 0.50 0.50 0.50
-map_bump ..\\_images\\mtl_t6_wpn_shield_glass_sortfx\\mtl_t6_wpn_shield_glass_nml.png
-map_Ks ..\\_images\\mtl_t6_wpn_shield_glass_sortfx\\~~-gmtl_t6_wpn_shield_glass_s~4999d44c.png

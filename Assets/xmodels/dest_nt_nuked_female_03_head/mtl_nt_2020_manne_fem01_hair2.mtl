@@ -1,8 +1,0 @@
-newmtl mtl_nt_2020_manne_fem01_hair2
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Ks 0.50 0.50 0.50
-map_Kd ..\\_images\\mtl_nt_2020_manne_fem01_hair2\\~-gnt_2020_manne_fem_01_hair2_c.png
-map_bump ..\\_images\\mtl_nt_2020_manne_fem01_hair2\\nt_2020_manne_fem_01_hair1_n.png
-map_Ks ..\\_images\\mtl_nt_2020_manne_fem01_hair2\\~~-gnt_2020_manne_fem_01_hair~126114d6.png

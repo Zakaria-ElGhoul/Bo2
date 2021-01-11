@@ -1,2 +1,0 @@
-semantic,image_name
-colorMap,~-gt5_foliage_flowers03_c

@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gplaster_interiorwall_pain~1b5a3ea4
-normalMap,$identitynormalmap
-colorMap,~-gplaster_interiorwall_paint~9db24747

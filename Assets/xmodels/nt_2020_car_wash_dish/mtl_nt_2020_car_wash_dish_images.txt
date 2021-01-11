@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,$identitynormalmap
-colorMap,~~-gcar_wash_dish_c-rgb&~-rca~f914df99

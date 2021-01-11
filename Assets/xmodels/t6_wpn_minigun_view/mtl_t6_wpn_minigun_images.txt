@@ -1,6 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gmtl_t6_wpn_minigun_spc-rg~9dec8b98
-normalMap,mtl_t6_wpn_minigun_nml
-unk_semantic_0x6001F931,~mtl_t6_wpn_minigun_ao-l&mtl_~571c054f
-colorMap,~-gmtl_t6_wpn_minigun_col
-unk_semantic_0xBDBA9390,weapon_camo_neutral

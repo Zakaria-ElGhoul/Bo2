@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,nt_2020_concrete_pattern_02_n
-colorMap,~-gnt_2020_concrete_pattern_02_c

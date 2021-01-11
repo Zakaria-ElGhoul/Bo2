@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,berlin_books_n
-colorMap,~~-gnt_2020_books_bright_col-~2cde0da2

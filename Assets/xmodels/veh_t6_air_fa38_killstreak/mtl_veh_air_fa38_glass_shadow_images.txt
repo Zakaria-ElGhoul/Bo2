@@ -1,2 +1,0 @@
-semantic,image_name
-colorMap,veh_t6_air_fa38_canopy_shadow_c

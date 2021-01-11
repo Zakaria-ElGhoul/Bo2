@@ -1,2 +1,0 @@
-semantic,image_name
-colorMap,mtl_t6_wpn_ballistic_knife_blade_col

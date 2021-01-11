@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,rus_concrete_panel03_n
-colorMap,~~-grus_concrete_panel03_c-rg~869e97d2

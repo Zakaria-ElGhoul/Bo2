@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gcore_glass_plain_s-rgb&~-~5d01a350
-normalMap,$identitynormalmap
-colorMap,~-gcore_glass_plain_c

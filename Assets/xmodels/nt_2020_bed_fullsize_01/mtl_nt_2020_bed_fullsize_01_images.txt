@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,nt_2020_bed_fullsize_01_nrm
-colorMap,~~-gnt_2020_bed_fullsize_01_c~dfce1a7a

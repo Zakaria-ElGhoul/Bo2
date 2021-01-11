@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,german_shepherd_nml
-colorMap,~~-ggerman_shepherd_black_col~c7dbb961

@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,flower_pot_dirt_n
-colorMap,~-gflower_pot_dirt_col

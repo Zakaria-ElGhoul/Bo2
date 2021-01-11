@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-ghydro_car_interior_sr-rgb~73c89539
-normalMap,hydro_car_interior_n
-colorMap,~-ghydro_car_interior_c

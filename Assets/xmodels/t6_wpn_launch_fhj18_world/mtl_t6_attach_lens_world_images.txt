@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gmtl_t6_attach_lens_world_~487a06dd
-normalMap,$identitynormalmap
-colorMap,~-gmtl_t6_attach_lens_world_col

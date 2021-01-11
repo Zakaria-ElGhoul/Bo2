@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gdecal_glass01_s-rgb&~-rde~6939bce8
-normalMap,$identitynormalmap
-colorMap,~-gdecal_glass02_c

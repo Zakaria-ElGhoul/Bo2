@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,$identitynormalmap
-colorMap,~~-gmtl_p6_industrial_tubing_~a350f5cf

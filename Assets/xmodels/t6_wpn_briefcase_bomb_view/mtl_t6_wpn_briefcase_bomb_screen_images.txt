@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0xDD64512E,~-gmtl_t6_wpn_briefcase_bomb_~dd0a98b8
-unk_semantic_0xDD64DD0D,~-gmtl_p6_sign_parkgarage_tal~87bcaac8
-unk_semantic_0xDD65596C,~-gmtl_t6_wpn_briefcase_bomb_screen

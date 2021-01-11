@@ -1,5 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-glimbs_s-rgb&~-rlimbs_g&limbs_n-l
-normalMap,limbs_n
-colorMap,~-glimbs_c
-detailMap,skin_pore_detail

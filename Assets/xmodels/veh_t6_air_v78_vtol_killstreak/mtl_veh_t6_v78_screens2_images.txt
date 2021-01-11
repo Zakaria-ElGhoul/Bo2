@@ -1,2 +1,0 @@
-semantic,image_name
-colorMap,~-gveh_t6_v78_screens2_c

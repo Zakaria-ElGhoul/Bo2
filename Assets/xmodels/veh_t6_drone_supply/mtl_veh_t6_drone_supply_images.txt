@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,veh_t6_drone_supply_n
-colorMap,~~-gveh_t6_drone_supply_c-rgb~f1a8bea5

@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,p6_bag_spice_n
-colorMap,~~-gp6_bag_spice_red_c-rgb&~-~3343211b

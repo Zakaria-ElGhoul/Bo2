@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gnt_2020_wall_small_cos-rg~b4bc9749
-normalMap,nt_2020_wall_small_nml
-colorMap,~-gnt_2020_wall_orange_ext_c

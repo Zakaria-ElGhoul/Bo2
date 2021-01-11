@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,p6_nt_ashtray_01_n
-colorMap,~~-gp6_nt_ashtray_02_c-rgb&~-~c320de31

@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,vista_streetlight_n
-colorMap,~~-gvista_streetlight_c-rgb&~~a8c81407

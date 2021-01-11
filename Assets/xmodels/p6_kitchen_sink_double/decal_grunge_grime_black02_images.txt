@@ -1,2 +1,0 @@
-semantic,image_name
-colorMap,decal_trim_grime_black02_c

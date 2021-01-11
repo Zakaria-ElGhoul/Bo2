@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,core_dirt_dark_n
-colorMap,~~-gcore_dirt_dark_c-rgb&~-rc~9596eddb

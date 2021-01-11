@@ -1,7 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gmtl_t6_wpn_ar_xm8_sc-rgb&~0a04d65b
-normalMap,mtl_t6_wpn_ar_xm8_n
-unk_semantic_0x6001F931,~mtl_t6_wpn_ar_xm8_ao-l&mtl_t~658774ef
-colorMap,~-gmtl_t6_wpn_ar_xm8_c
-unk_semantic_0xBDBA9390,camo_off_pattern
-detailMap,detail_normal

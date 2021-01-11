@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gmtl_t6_attach_optic_vzoom~1a1f94fb
-normalMap,mtl_t6_attach_optic_vzoom_nml
-colorMap,~-gmtl_t6_attach_optic_vzoom_svu_col

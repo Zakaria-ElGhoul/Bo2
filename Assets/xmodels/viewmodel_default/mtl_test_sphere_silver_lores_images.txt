@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gwhite-rgb&~-rglobal_rough~302febe0
-normalMap,$identitynormalmap
-colorMap,~-gblack_8x8

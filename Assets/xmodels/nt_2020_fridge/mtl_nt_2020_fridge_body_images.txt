@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gmtl_nt2020_fridge_body_sp~acd203fe
-normalMap,mtl_nt2020_fridge_body_nml
-colorMap,~-gmtl_nt2020_fridge_body_col

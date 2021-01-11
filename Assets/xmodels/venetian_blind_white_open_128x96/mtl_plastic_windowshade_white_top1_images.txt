@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,venetian_top_white_nml
-colorMap,~~-gvenetian_top_white_col-rg~198ab0b0

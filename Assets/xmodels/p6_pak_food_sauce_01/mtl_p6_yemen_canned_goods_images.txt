@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,$identitynormalmap
-colorMap,~~-gp6_yemen_canned_goods_c-r~9e845948

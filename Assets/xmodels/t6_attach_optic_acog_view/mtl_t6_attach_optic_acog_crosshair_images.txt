@@ -1,3 +1,0 @@
-semantic,image_name
-Color_Map,mtl_t6_attach_optic_acog_crosshair
-unk_semantic_0xD29BFA97,sw_radiant_default

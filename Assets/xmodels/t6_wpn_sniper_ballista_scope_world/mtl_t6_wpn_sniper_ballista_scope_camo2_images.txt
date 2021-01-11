@@ -1,6 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gmtl_t6_wpn_sniper_ballist~e541153f
-normalMap,mtl_t6_wpn_sniper_ballista_scope_nml
-unk_semantic_0x6001F931,~mtl_t6_wpn_sniper_ballista_s~03fbaf1f
-colorMap,~-gmtl_t6_wpn_sniper_ballista~f9eaeff9
-unk_semantic_0xBDBA9390,camo_off_pattern

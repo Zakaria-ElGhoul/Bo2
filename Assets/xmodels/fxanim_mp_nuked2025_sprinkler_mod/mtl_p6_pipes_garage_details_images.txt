@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gp6_pipes_garage_details_s~ade4e07d
-normalMap,p6_pipes_garage_details_n
-colorMap,~-gp6_pipes_garage_details_c

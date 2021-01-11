@@ -1,8 +1,0 @@
-newmtl metal_wall_brushed
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Ks 0.50 0.50 0.50
-map_Kd ..\\_images\\metal_wall_brushed\\~-gjun_art_metal_brushed_c.png
-map_bump ..\\_images\\metal_wall_brushed\\jun_art_metal_brushed_n.png
-map_Ks ..\\_images\\metal_wall_brushed\\~~-gjun_art_metal_brushed_s-r~e7f4f905.png

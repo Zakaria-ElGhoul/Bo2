@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x8C297E80,~~-gviewarm_watchglass_s-rgb&~7616094c
-Normal_Map,viewarm_watchglass_n
-Color_Map,~-gviewarm_watchglass_c

@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,cub_pottedplant_01_n
-colorMap,~-gcub_pottedplant_01_c

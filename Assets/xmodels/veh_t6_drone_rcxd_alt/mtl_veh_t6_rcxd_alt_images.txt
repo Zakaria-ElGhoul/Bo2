@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gveh_t6_rcxd_sc-rgb&~-rveh~66e5db00
-normalMap,veh_t6_rcxd_n
-colorMap,~-gveh_t6_rcxd_alt_c

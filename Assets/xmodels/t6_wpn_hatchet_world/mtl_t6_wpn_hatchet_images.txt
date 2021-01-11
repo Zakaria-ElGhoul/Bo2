@@ -1,5 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gmtl_t6_wpn_hatchet_spc-rg~22895fda
-normalMap,mtl_t6_wpn_hatchet_nml
-colorMap,~-gmtl_t6_wpn_hatchet_col
-unk_semantic_0xBDBA9390,weapon_camo_neutral

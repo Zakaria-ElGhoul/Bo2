@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,pent_art_wall_greypaint01_n
-colorMap,~~-gpent_art_wall_creampaint0~e57342c8

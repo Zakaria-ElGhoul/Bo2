@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x8C297E80,~~-gc_usa_mp_seal6_snip_vest_~dc544349
-Normal_Map,c_usa_mp_seal6_snip_vest_n
-Diffuse_Map,~-gc_usa_mp_seal6_snip_vest_c

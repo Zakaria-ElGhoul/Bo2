@@ -1,2 +1,0 @@
-semantic,image_name
-colorMap,mtl_t6_wpn_turret_sentry_gun_base_col

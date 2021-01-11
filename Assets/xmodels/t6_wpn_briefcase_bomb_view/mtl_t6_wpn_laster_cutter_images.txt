@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gmtl_t6_wpn_laser_cutter_s~dad5e0ad
-normalMap,mtl_t6_wpn_laser_cutter_nml
-colorMap,~-gmtl_t6_wpn_laser_cutter_col

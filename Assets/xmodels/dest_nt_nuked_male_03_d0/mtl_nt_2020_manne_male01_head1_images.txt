@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gnt_2020_manne_male01_head~f28b75e4
-normalMap,nt_2020_manne_male01_head1_n
-colorMap,~-gnt_2020_manne_male01_head1_c

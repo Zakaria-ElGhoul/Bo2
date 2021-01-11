@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gnt_2020_bedroom_stand_s-r~8aea4077
-normalMap,$identitynormalmap
-colorMap,~-gnt_2020_bedroom_stand_c

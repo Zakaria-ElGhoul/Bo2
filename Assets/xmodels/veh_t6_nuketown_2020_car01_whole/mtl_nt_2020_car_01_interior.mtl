@@ -1,8 +1,0 @@
-newmtl mtl_nt_2020_car_01_interior
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Ks 0.50 0.50 0.50
-map_Kd ..\\_images\\mtl_nt_2020_car_01_interior\\~-ghydro_car_interior_c.png
-map_bump ..\\_images\\mtl_nt_2020_car_01_interior\\hydro_car_interior_n.png
-map_Ks ..\\_images\\mtl_nt_2020_car_01_interior\\~~-ghydro_car_interior_sr-rgb~73c89539.png

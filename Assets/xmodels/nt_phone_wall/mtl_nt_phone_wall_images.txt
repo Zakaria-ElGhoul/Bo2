@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gnt_phone_wall_s-rgb&~-rnt~b6a01383
-normalMap,nt_phone_wall_n
-colorMap,~-gnt_phone_wall_c

@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,p_jun_electronic_outlet03_n
-colorMap,~~-gp_jun_electronic_outlet03~972abcc8

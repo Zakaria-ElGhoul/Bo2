@@ -1,5 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gmtl_t6_attach_belt_links_~420413a9
-normalMap,mtl_t6_attach_belt_links_n
-colorMap,~-gmtl_t6_attach_belt_links_c
-unk_semantic_0xBDBA9390,weapon_camo_neutral

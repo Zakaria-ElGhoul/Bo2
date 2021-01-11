@@ -1,8 +1,0 @@
-newmtl mtl_nt_2020_food_disp_decals
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Ks 0.50 0.50 0.50
-map_Kd ..\\_images\\mtl_nt_2020_food_disp_decals\\~-gnt_2020_food_dispenser_decals_c.png
-map_bump ..\\_images\\mtl_nt_2020_food_disp_decals\\$identitynormalmap.png
-map_Ks ..\\_images\\mtl_nt_2020_food_disp_decals\\~~-gnt_2020_food_dispenser_de~79b399cb.png

@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,nt_rooftop_overhang_n
-colorMap,~-gnt_rooftop_overhang_c

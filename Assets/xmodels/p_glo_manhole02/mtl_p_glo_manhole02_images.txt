@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,p_glo_manhole02_n
-colorMap,~~-gp_glo_manhole02_c-rgb&~-r~ee445e5b

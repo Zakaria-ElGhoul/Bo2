@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,$identitynormalmap
-colorMap,~~-gnt_2020_robot_shed_logo-r~e8f5f04e

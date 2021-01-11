@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,p_rus_tape_dispenser_n
-colorMap,~~-gp_rus_tape_dispenser_c-rg~8541536a

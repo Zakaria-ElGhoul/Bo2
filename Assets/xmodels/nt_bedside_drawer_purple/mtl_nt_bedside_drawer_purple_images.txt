@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gnt_bedside_drawer_g-rgb&~~b403a14f
-normalMap,nt_bedside_drawer_n
-colorMap,~-gnt_bedside_drawer_purple_c

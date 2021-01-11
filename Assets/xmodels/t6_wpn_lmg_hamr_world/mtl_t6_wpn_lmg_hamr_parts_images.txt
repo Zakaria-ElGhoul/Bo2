@@ -1,6 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gmtl_t6_wpn_lmg_hamr_parts~1996d8c7
-normalMap,mtl_t6_wpn_lmg_hamr_parts_nml
-unk_semantic_0x6001F931,~mtl_t6_wpn_lmg_hamr_parts_ao~55e49ed9
-colorMap,~-gmtl_t6_wpn_lmg_hamr_parts_col
-unk_semantic_0xBDBA9390,camo_off_solid

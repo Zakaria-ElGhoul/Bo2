@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-guw_metal_threadplate01_s-~07aa2ec9
-normalMap,uw_metal_threadplate01_n
-colorMap,~-guw_metal_threadplate01_c

@@ -1,7 +1,0 @@
-newmtl mp_b_art_roof_brick_slate01
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Ks 0.50 0.50 0.50
-map_Kd ..\\_images\\mp_b_art_roof_brick_slate01\\~~-geb_art_roof_brick_slate01~50559e12.png
-map_bump ..\\_images\\mp_b_art_roof_brick_slate01\\eb_art_roof_brick_slate01_n.png

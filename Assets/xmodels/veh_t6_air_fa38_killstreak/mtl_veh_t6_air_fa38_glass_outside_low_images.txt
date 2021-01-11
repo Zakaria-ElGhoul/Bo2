@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gveh_t6_air_fa38_canopy_sp~7f64df65
-normalMap,$identitynormalmap
-colorMap,~-gveh_t6_air_fa38_canopy_color_low

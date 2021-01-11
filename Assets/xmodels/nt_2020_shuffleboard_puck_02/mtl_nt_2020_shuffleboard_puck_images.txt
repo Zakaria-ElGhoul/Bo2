@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,nt_2020_shuffleboard_puck_n
-colorMap,~~-gnt_2020_shuffleboard_puck~abdf2f55

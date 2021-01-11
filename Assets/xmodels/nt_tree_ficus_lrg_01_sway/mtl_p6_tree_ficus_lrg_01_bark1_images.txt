@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,p6_tree_ficus_lrg_01_bark1_n
-colorMap,~-gp6_tree_ficus_lrg_01_bark1_c

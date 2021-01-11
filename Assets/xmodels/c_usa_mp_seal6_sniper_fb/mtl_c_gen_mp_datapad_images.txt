@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x8C297E80,~~-gc_gen_mp_datapad_s-rgb&c_~0076261e
-Normal_Map,c_gen_mp_datapad_n
-Diffuse_Map,~-gc_gen_mp_datapad_c

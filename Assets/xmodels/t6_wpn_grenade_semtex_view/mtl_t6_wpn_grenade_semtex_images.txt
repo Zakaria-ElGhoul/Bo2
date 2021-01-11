@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gmtl_t6_wpn_grenade_semtex~c700925e
-normalMap,mtl_t6_wpn_grenade_semtex_nml
-colorMap,~-gmtl_t6_wpn_grenade_semtex_col

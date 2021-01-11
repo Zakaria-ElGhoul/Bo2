@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,stone_floor_granite_tile01_cream_n
-colorMap,~~-gstone_floor_granite_tile0~9d83e2f7

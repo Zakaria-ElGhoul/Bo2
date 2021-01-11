@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,nt_wall_meter_01_n
-colorMap,~~-gnt_wall_meter_01_c-rgb&~-~9da4e6c2

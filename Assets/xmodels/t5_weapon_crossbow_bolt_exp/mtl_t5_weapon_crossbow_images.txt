@@ -1,6 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gcrossbow_corr-rgb&~-rcros~cfc0eca8
-normalMap,crossbow_n
-unk_semantic_0x6001F931,~crossbow_occ-l&crossbow_env-~020f6743
-colorMap,~-gcrossbow_c
-unk_semantic_0xBDBA9390,cammo_gunmetal

@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gp6_nitrogen_tank_s-rgb&~-~2de78638
-normalMap,p6_nitrogen_tank_n
-colorMap,~-gp6_nitrogen_tank_c

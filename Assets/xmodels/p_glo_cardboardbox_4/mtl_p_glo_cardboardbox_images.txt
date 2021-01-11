@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,cardboard_box_n
-colorMap,~-gcardboard_box_c

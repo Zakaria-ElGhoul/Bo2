@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gnt_2020_sign_numbers_spc-~d314b94c
-normalMap,nt_2020_sign_numbers_nml
-colorMap,~-gnt_2020_sign_numbers_col

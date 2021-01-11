@@ -1,6 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gmtl_t6_attach_gl_gp25_spc~d503f8de
-normalMap,mtl_t6_attach_gl_gp25_nml
-unk_semantic_0x6001F931,~mtl_t6_attach_gl_gp25_ao-l&m~22d628d4
-colorMap,~-gmtl_t6_attach_gl_gp25_col
-unk_semantic_0xBDBA9390,weapon_camo_neutral

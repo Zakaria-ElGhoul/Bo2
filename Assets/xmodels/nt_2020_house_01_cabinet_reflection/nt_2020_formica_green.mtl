@@ -1,8 +1,0 @@
-newmtl nt_2020_formica_green
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Ks 0.50 0.50 0.50
-map_Kd ..\\_images\\nt_2020_formica_green\\~-gnt_2020_kitchen_cabinet_ho~ca99f914.png
-map_bump ..\\_images\\nt_2020_formica_green\\$identitynormalmap.png
-map_Ks ..\\_images\\nt_2020_formica_green\\~~-gmetal_white_col-rgb&~-rnt~d96fc453.png

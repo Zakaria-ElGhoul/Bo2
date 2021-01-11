@@ -1,7 +1,0 @@
-newmtl mtl_t6_veh_drone_quad_rotor_blades
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Ks 0.50 0.50 0.50
-map_Kd ..\\_images\\mtl_t6_veh_drone_quad_rotor_blades\\~-gveh_t6_drone_quad_rotor_blades_c.png
-map_bump ..\\_images\\mtl_t6_veh_drone_quad_rotor_blades\\$identitynormalmap.png

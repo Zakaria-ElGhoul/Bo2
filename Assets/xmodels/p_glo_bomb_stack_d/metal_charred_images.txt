@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,rus_metal_dark_charred_n
-colorMap,~~-grus_metal_dark_charred_c-~70dad620

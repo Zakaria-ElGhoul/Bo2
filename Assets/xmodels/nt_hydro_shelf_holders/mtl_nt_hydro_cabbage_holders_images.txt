@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gnt_hydro_cabbage_holders_~b552875b
-normalMap,nt_hydro_cabbage_holders_n
-colorMap,~-gnt_hydro_cabbage_holders_c

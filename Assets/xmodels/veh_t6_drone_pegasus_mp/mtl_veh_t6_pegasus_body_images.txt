@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gveh_t6_pegasus_body_sc-rg~266228f9
-normalMap,$identitynormalmap
-colorMap,~-gveh_t6_pegasus_body_c

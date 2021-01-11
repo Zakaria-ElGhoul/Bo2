@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gmtl_t6_wpn_shield_glass_s~dd837335
-normalMap,mtl_t6_wpn_shield_glass_nml
-colorMap,~-gmtl_t6_wpn_shield_glass_col

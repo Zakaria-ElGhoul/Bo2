@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,veh_t6_drone_tank_wheels_n
-colorMap,~~-gveh_t6_drone_tank_wheels_~f559c3e3

@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gmtl_t6_wpn_taser_mine_spc~32c1c601
-normalMap,mtl_t6_wpn_taser_mine_nml
-colorMap,~-gmtl_t6_wpn_taser_mine_col

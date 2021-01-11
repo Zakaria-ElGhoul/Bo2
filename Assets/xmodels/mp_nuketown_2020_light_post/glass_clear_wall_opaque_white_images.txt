@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x11594EB2,~~-gglass_clear_wall_s-rgb&gl~32bf418c
-Normal_Map,glass_clear_wall_n
-colorMap,~-gglass_clear_wall_opaque_c

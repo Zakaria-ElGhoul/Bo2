@@ -1,5 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gmtl_t6_wpn_motion_sensor_~fe665eb4
-normalMap,mtl_t6_wpn_motion_sensor_nml
-colorMap,~-gmtl_t6_wpn_motion_sensor_col
-unk_semantic_0xBDBA9390,weapon_camo_neutral

@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,nt_2020_recycling_bin_normals
-colorMap,~~-gnt_2020_recycling_bin_c-r~be8d5643

@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gus_art_wall_woodsiding_s-~973f129d
-normalMap,us_art_wall_woodsiding_n
-colorMap,~-gus_art_wall_woodsiding_c

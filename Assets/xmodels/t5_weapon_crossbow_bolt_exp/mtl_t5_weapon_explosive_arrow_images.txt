@@ -1,6 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~$black-rgb&~-rcrossbow_explo~e42c5f07
-normalMap,crossbow_explosive_arrow_n
-unk_semantic_0x6001F931,~$white-l&crossbow_env-l&$white-ll
-colorMap,~-gcrossbow_explosive_arrow_c
-unk_semantic_0xBDBA9390,weapon_camo_neutral

@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gma_vase_spc-rgb&~-rma_vas~49841b8b
-normalMap,$identitynormalmap
-colorMap,~-gma_vase_col

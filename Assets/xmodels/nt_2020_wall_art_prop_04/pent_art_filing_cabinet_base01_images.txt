@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,pent_art_filing_cabinet_base_n
-colorMap,~~-gpent_art_filing_cabinet_b~f81a6e50

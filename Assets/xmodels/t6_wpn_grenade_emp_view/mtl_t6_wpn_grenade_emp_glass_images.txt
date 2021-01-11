@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x8C297E80,~~-gmtl_t6_wpn_grenade_emp_sp~4bbca373
-Normal_Map,mtl_t6_wpn_grenade_emp_nml
-Color_Map,~-gmtl_t6_wpn_grenade_emp_col

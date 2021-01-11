@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gmtl_nt_generator_s-rgb&~-~a5864813
-normalMap,mtl_nt_generator_n
-colorMap,~-gmtl_nt_generator_c

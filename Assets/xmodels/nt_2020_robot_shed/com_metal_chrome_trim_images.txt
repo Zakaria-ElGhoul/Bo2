@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gmetal_chrome_spc-rgb&~-rm~e9c2a7f0
-normalMap,metal_chrome_nml
-colorMap,~-gmetal_chrome_col

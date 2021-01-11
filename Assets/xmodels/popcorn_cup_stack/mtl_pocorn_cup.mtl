@@ -1,8 +1,0 @@
-newmtl mtl_pocorn_cup
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Ks 0.50 0.50 0.50
-map_Kd ..\\_images\\mtl_pocorn_cup\\~-gpopcorn_cup_col.png
-map_bump ..\\_images\\mtl_pocorn_cup\\popcorn_cup_nml.png
-map_Ks ..\\_images\\mtl_pocorn_cup\\~~-gpopcorn_cup_spc-rgb&~-rpo~d58dde7d.png

@@ -1,2 +1,0 @@
-semantic,image_name
-colorMap,~-ggrass_piece1

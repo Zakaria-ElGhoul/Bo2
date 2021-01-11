@@ -1,6 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gmtl_t6_wpn_pistol_b2023r_~11bb827b
-normalMap,mtl_t6_wpn_pistol_b2023r_nml
-unk_semantic_0x6001F931,~mtl_t6_wpn_pistol_b2023r_ao-~c0cac63b
-colorMap,~-gmtl_t6_wpn_pistol_b2023r_col
-unk_semantic_0xBDBA9390,camo_off_pattern

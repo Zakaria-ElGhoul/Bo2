@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,venetian_blind_string_nml
-colorMap,~-gvenetian_blind_string_col

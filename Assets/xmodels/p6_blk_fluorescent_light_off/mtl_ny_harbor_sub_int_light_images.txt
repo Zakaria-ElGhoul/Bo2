@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gny_harbor_sub_int_light_s~a4f339c3
-normalMap,ny_harbor_sub_int_light_nml
-colorMap,~-gny_harbor_sub_int_light_col

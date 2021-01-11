@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gnt_2020_glass_metal_01_s-~37966c73
-normalMap,nt_2020_glass_metal_01_nml
-colorMap,~-gnt_2020_glass_metal_02

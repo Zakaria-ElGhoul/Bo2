@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x8C297E80,~~-gmtl_t6_wpn_briefcase_bomb~a7e01639
-Normal_Map,mtl_t6_wpn_briefcase_bomb_lens_nml
-Color_Map,~-gmtl_t6_wpn_briefcase_bomb_lens_col

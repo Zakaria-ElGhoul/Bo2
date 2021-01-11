@@ -1,2 +1,0 @@
-semantic,image_name
-unk_semantic_0xDD64512E,~-gp6_fan_standing_modern_on

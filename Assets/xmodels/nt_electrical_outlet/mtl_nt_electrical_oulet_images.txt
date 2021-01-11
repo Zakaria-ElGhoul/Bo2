@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gnt_electrical_oulet_s-rgb~9d582d17
-normalMap,nt_electrical_oulet_n
-colorMap,~-gnt_electrical_oulet_c

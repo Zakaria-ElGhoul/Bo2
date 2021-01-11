@@ -1,4 +1,0 @@
-semantic,image_name
-Static_Noise_Map,noise2
-unk_semantic_0xD29BFA97,sw_radiant_default
-Lookup,~sonar_attachment_lookup_puls~4187f661

@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,plastic_panel_off_white_n
-colorMap,~~-gplastic_panel_off_white_c~4459aba5

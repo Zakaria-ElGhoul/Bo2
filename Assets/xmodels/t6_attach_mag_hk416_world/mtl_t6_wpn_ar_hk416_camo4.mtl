@@ -1,8 +1,0 @@
-newmtl mtl_t6_wpn_ar_hk416_camo4
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Ks 0.50 0.50 0.50
-map_Kd ..\\_images\\mtl_t6_wpn_ar_hk416_camo4\\~-gmtl_t6_wpn_ar_hk416_col.png
-map_bump ..\\_images\\mtl_t6_wpn_ar_hk416_camo4\\mtl_t6_wpn_ar_hk416_nml.png
-map_Ks ..\\_images\\mtl_t6_wpn_ar_hk416_camo4\\~~-gmtl_t6_wpn_ar_hk416_spc-r~3b83c03d.png

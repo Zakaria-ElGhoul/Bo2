@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gveh_t6_air_ah94_body_s-rg~1e19683c
-normalMap,veh_t6_air_ah94_body_n
-colorMap,~-gveh_t6_air_ah94_body_light_c

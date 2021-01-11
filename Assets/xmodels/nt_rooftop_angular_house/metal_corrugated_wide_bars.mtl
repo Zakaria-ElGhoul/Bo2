@@ -1,8 +1,0 @@
-newmtl metal_corrugated_wide_bars
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Ks 0.50 0.50 0.50
-map_Kd ..\\_images\\metal_corrugated_wide_bars\\~-gmetal_corrugated_wide_bars_c.png
-map_bump ..\\_images\\metal_corrugated_wide_bars\\metal_corrugated_wide_bars_n.png
-map_Ks ..\\_images\\metal_corrugated_wide_bars\\~~-gmetal_corrugated_wide_bar~4e879a92.png

@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~$black-rgbl
-normalMap,nt_2020_banner_01_n
-colorMap,~-gnt_2020_banner_01_c

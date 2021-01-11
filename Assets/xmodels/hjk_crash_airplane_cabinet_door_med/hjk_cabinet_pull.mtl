@@ -1,7 +1,0 @@
-newmtl hjk_cabinet_pull
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Ks 0.50 0.50 0.50
-map_Kd ..\\_images\\hjk_cabinet_pull\\~~-ghjk_cabinet_pull_col-rgb&~f2b7a38d.png
-map_bump ..\\_images\\hjk_cabinet_pull\\hjk_cabinet_pull_nml.png

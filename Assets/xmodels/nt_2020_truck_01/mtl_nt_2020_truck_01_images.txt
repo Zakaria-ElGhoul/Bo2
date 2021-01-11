@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gdelivery_truck_s-rgb&~-rd~bcd5b108
-normalMap,delivery_truck_n
-colorMap,~-gdelivery_truck_c

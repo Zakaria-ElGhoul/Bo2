@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,pb_concrete_wall_01_trim_nml
-colorMap,~~-gdub_concrete_wall_01_clea~d8d17c3c

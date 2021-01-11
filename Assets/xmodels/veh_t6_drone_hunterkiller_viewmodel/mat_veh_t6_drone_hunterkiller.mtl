@@ -1,8 +1,0 @@
-newmtl mat_veh_t6_drone_hunterkiller
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Ks 0.50 0.50 0.50
-map_Kd ..\\_images\\mat_veh_t6_drone_hunterkiller\\~-gmat_veh_t6_body_c.png
-map_bump ..\\_images\\mat_veh_t6_drone_hunterkiller\\mat_veh_t6_body_n.png
-map_Ks ..\\_images\\mat_veh_t6_drone_hunterkiller\\~~-gmat_veh_t6_body_s-rgb&~-r~cd9f601d.png

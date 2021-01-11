@@ -1,2 +1,0 @@
-semantic,image_name
-colorMap,decal_metal_leak_c

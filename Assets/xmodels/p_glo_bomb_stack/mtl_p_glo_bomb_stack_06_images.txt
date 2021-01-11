@@ -1,4 +1,0 @@
-semantic,image_name
-normalMap,normal_texture
-colorMap,~~-gp_glo_bomb_stack_06_c-rgb~2132b54a
-detailMap,plastic_n

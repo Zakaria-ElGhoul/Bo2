@@ -1,6 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gmtl_t6_wpn_launch_m32_spc~f600f729
-normalMap,mtl_t6_wpn_launch_m32_nml
-unk_semantic_0x6001F931,~mtl_t6_wpn_launch_m32_ao-l&m~72aadc7a
-colorMap,~-gmtl_t6_wpn_launch_m32_col
-unk_semantic_0xBDBA9390,weapon_camo_neutral

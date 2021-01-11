@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gnt_signs_glass_06_s-rgb&$black-l
-normalMap,nt_signs_glass_06_n
-colorMap,~-gnt_signs_glass_06_c

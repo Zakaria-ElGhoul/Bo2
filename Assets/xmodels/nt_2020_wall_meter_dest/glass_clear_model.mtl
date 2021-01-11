@@ -1,8 +1,0 @@
-newmtl glass_clear_model
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Ks 0.50 0.50 0.50
-map_Kd ..\\_images\\glass_clear_model\\~-gdecal_glass02_c.png
-map_bump ..\\_images\\glass_clear_model\\$identitynormalmap.png
-map_Ks ..\\_images\\glass_clear_model\\~~-gdecal_glass01_s-rgb&~-rde~6939bce8.png

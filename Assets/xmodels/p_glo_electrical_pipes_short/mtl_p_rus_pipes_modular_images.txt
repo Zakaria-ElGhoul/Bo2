@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,p_rus_pipes_modular_n
-colorMap,~~-gp_rus_pipes_modular_c-rgb~517a4b81

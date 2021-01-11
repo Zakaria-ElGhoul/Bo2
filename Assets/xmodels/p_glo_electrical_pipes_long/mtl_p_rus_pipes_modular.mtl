@@ -1,7 +1,0 @@
-newmtl mtl_p_rus_pipes_modular
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Ks 0.50 0.50 0.50
-map_Kd ..\\_images\\mtl_p_rus_pipes_modular\\~~-gp_rus_pipes_modular_c-rgb~517a4b81.png
-map_bump ..\\_images\\mtl_p_rus_pipes_modular\\p_rus_pipes_modular_n.png

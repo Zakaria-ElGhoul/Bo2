@@ -1,7 +1,0 @@
-newmtl mtl_p6_rag_dolls
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Ks 0.50 0.50 0.50
-map_Kd ..\\_images\\mtl_p6_rag_dolls\\~~-gp6_rag_dolls_c-rgb&~-rp6_~d35889b4.png
-map_bump ..\\_images\\mtl_p6_rag_dolls\\p6_rag_dolls_n.png

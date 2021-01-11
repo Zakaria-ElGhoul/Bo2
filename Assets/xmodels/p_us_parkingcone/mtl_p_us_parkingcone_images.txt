@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,p_us_parkingcone_n
-colorMap,~~-gp_us_parkingcone_c-rgb&~-~67ada759

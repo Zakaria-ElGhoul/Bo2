@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,nt_desk_n
-colorMap,~~-gnt_desk_c-rgb&~-rnt_desk_~a5e9894d

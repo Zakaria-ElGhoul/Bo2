@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,nt_vista_red_tent_n
-colorMap,~~-gnt_vista_red_tent_c-rgb&~~e12e5c8d

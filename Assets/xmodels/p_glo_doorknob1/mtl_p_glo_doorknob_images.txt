@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,doorknob_n
-colorMap,~~-gdoorknob_col-rgb&~-rdoork~9df3bf0d

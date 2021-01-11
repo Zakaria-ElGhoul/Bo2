@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gdub_gold_shiny_01_spe-rgb~021efc13
-normalMap,$identitynormalmap
-colorMap,~-gdub_gold_shiny_01_col

@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,global_normal_flat_16x16
-colorMap,~~-gplastic_fluorescent_cover~de7b5c51

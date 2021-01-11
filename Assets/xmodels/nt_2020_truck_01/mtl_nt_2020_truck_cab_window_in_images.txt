@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gnt_2020_truck_cab_window_~cb7b3e1a
-normalMap,$identitynormalmap
-colorMap,~-gnt_2020_truck_cab_window_c

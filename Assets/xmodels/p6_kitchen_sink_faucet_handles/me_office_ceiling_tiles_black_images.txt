@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,me_office_ceiling_tiles_black_nml
-colorMap,~~-gme_office_ceiling_tiles_b~9fdff71f

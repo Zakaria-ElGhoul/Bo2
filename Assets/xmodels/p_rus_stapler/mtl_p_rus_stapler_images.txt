@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,p_rus_stapler_n
-colorMap,~~-gp_rus_stapler_c-rgb&~-rp_~3ee2abe4

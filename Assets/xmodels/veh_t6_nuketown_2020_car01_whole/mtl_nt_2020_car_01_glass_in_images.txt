@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-ghydro_car_glass_s-rgb&~-r~cbf2456a
-normalMap,$identitynormalmap
-colorMap,~-ghydro_car_glass_c

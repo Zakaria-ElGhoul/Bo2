@@ -1,2 +1,0 @@
-semantic,image_name
-colorMap,~-gmat_veh_t6_body_c

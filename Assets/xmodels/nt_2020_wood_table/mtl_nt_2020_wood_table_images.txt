@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,nt_wood_table_n
-colorMap,~~-gnt_wood_table_c-rgb&~-rnt~b493a27b

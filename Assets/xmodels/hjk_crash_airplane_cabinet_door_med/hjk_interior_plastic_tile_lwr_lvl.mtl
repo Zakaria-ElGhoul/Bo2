@@ -1,8 +1,0 @@
-newmtl hjk_interior_plastic_tile_lwr_lvl
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Ks 0.50 0.50 0.50
-map_Kd ..\\_images\\hjk_interior_plastic_tile_lwr_lvl\\~-ghjk_interior_plastic_tile_col.png
-map_bump ..\\_images\\hjk_interior_plastic_tile_lwr_lvl\\hjk_interior_plastic_tile_nml.png
-map_Ks ..\\_images\\hjk_interior_plastic_tile_lwr_lvl\\~~-ghjk_interior_plastic_tile~2b689df2.png

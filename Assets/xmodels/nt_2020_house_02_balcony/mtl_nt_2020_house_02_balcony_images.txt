@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,house_01_balcony_n
-colorMap,~~-ghouse_02_balcony_c-rgb&~-~c1071813

@@ -1,7 +1,0 @@
-newmtl mtl_nt_2020_books
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Ks 0.50 0.50 0.50
-map_Kd ..\\_images\\mtl_nt_2020_books\\~~-gnt_2020_books_bright_col-~2cde0da2.png
-map_bump ..\\_images\\mtl_nt_2020_books\\berlin_books_n.png

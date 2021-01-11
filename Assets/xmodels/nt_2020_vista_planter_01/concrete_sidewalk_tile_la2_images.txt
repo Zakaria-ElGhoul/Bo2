@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,concrete_sidewalk_tile01_n
-colorMap,~~-gconcrete_sidewalk_tile01_~6fd6289c

@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,nt_fallout_shelter_sign_n
-colorMap,~-gnt_fallout_shelter_sign_c

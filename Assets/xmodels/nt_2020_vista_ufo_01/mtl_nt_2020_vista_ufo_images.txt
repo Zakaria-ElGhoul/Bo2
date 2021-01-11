@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,ufo_blding_n
-colorMap,~~-gufo_blding_c-rgb&~-rufo_b~eb929359

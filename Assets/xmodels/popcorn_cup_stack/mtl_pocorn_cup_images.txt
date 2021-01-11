@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gpopcorn_cup_spc-rgb&~-rpo~d58dde7d
-normalMap,popcorn_cup_nml
-colorMap,~-gpopcorn_cup_col

@@ -1,6 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gmtl_t6_wpn_turret_ads_spc~4d73d57b
-normalMap,mtl_t6_wpn_turret_ads_nml
-unk_semantic_0x6001F931,~mtl_t6_wpn_turret_ads_ao-l&m~9d763c14
-colorMap,~-gmtl_t6_wpn_turret_ads_col
-unk_semantic_0xBDBA9390,weapon_camo_neutral

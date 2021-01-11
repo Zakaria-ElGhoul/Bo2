@@ -1,2 +1,0 @@
-semantic,image_name
-colorMap,~-gp_pent_lamp_bulb_on_c

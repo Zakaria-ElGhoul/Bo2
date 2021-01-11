@@ -1,5 +1,0 @@
-semantic,image_name
-Normal_Map,mtl_t6_attach_rangefinder_lens_nml
-unk_semantic_0xAF4B0C2E,~-gmtl_t6_attach_rangefinder_lens_spc
-Color_Map,~-gmtl_t6_attach_rangefinder_lens_col
-unk_semantic_0xD37DCDD7,~-rmtl_t6_attach_rangefinder_~b670518b

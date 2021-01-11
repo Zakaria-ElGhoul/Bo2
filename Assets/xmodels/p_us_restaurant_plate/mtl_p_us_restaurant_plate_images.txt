@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,p_us_restaurant_plate_n
-colorMap,~~-gp_us_restaurant_plate_c-r~5e56318d

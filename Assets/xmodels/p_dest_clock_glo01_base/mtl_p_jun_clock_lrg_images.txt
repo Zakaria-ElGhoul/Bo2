@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,p_jun_clock_lrg_n
-colorMap,~~-gp_jun_clock_lrg_c-rgb&~-r~7b4d5581

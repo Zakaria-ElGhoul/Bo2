@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gnt_2020_plastic_blue_spc-~fdd97a53
-normalMap,nt_2020_smooth_nml
-colorMap,~-gnt_2020_plastic_red_col

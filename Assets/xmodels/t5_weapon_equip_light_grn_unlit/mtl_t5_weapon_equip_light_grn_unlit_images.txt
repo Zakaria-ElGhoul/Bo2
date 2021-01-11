@@ -1,2 +1,0 @@
-semantic,image_name
-colorMap,~-gt5_weapon_equip_light_grn

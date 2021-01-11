@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,global_window_glass_n
-colorMap,~~-gglobal_window_glass_frost~86761d35

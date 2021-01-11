@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gzm_vinylsiding_yellow_s-r~84f9f2f4
-normalMap,zm_vinylsiding_yellow_n
-colorMap,~-gzm_vinylsiding_white_c

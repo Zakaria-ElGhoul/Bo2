@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gfx_bullet_chain_spc-rgb&~~cf27f2d4
-normalMap,$identitynormalmap
-colorMap,~-gfx_bullet_chain_col

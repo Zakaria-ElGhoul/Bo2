@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gnt_2020_space_couch_spc-r~0d79a840
-normalMap,nt_2020_space_couch_nrm
-colorMap,~-gnt_2020_space_couch_col

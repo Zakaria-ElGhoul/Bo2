@@ -1,4 +1,0 @@
-semantic,image_name
-Detail_Map,mtl_t6_attach_optic_reticle_noise
-Color_Map,mtl_t6_attach_optic_combo_acog_reticle
-unk_semantic_0xD29BFA97,sw_radiant_default

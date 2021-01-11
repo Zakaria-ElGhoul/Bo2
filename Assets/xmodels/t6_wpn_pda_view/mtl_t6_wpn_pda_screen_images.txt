@@ -1,8 +1,0 @@
-semantic,image_name
-unk_semantic_0x5C35D619,mtl_t6_wpn_pda_screen_z
-unk_semantic_0xB02E0CCF,~-gmtl_t6_wpn_pda_screen_wave
-unk_semantic_0xD62467FC,~-gmtl_t6_wpn_pda_screen_blip
-unk_semantic_0xDA726D6C,~-gmtl_t6_wpn_pda_screen_holo
-unk_semantic_0xDD64512E,~-gmtl_t6_wpn_pda_screen_menu
-unk_semantic_0xDD64DD0D,~-gviewarm_usa_seal_masonjr_fe_grid_c
-unk_semantic_0xE24DFDD1,~-gviewarm_usa_seal_masonjr_v~215923cf

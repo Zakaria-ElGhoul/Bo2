@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gnt_kitchen_table_s-rgb&~-~949a9a9a
-normalMap,nt_kitchen_table_n
-colorMap,~-gnt_kitchen_table_c

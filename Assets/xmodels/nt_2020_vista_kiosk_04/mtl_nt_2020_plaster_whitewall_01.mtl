@@ -1,7 +1,0 @@
-newmtl mtl_nt_2020_plaster_whitewall_01
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Ks 0.50 0.50 0.50
-map_Kd ..\\_images\\mtl_nt_2020_plaster_whitewall_01\\~~-gnt_2020_house_04_plasterf~eb5afb7b.png
-map_bump ..\\_images\\mtl_nt_2020_plaster_whitewall_01\\plaster_whitewall01bump.png

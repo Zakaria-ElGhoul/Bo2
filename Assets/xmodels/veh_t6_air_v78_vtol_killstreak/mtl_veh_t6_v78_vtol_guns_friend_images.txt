@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,veh_t6_v78_guns_n
-colorMap,~~-gveh_t6_v78_guns_friend_c-~b502518f

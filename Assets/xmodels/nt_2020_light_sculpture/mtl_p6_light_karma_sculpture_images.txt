@@ -1,2 +1,0 @@
-semantic,image_name
-colorMap,~-gp6_light_karma_sculpture_c

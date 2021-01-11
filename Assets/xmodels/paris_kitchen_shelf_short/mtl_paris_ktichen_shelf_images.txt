@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gparis_kitchen_shelf_spc-r~e4f7e0b1
-normalMap,paris_kitchen_shelf_nml
-colorMap,~-gparis_kitchen_shelf_col

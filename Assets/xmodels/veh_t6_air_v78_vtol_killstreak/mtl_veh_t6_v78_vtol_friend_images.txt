@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,veh_t6_v78_n
-colorMap,~~-gveh_t6_v78_friend_c-rgb&~~89d52dc3

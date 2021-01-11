@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gt5_weapon_equip_light_sr-~b6ecac86
-normalMap,$identitynormalmap
-colorMap,~-gt5_weapon_equip_light_grn

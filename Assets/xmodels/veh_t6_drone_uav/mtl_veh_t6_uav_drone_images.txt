@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,$identitynormalmap
-colorMap,~~-gveh_t6_uav_drone_c-rgb&~-~207a7fc0

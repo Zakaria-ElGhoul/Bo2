@@ -1,7 +1,0 @@
-newmtl plaster_whitewall_01
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Ks 0.50 0.50 0.50
-map_Kd ..\\_images\\plaster_whitewall_01\\~~-gplaster_whitewall01-rgb&~~da03132f.png
-map_bump ..\\_images\\plaster_whitewall_01\\plaster_whitewall01bump.png

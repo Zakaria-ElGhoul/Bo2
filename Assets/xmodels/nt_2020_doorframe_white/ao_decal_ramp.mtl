@@ -1,6 +1,0 @@
-newmtl ao_decal_ramp
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Ks 0.50 0.50 0.50
-map_Kd ..\\_images\\ao_decal_ramp\\~-gao_decal_ramp.png

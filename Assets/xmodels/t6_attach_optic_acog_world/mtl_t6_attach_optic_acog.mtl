@@ -1,8 +1,0 @@
-newmtl mtl_t6_attach_optic_acog
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Ks 0.50 0.50 0.50
-map_Kd ..\\_images\\mtl_t6_attach_optic_acog\\~-gmtl_t6_attach_optic_acog_col.png
-map_bump ..\\_images\\mtl_t6_attach_optic_acog\\mtl_t6_attach_optic_acog_nml.png
-map_Ks ..\\_images\\mtl_t6_attach_optic_acog\\~~-gmtl_t6_attach_optic_acog_~03362225.png

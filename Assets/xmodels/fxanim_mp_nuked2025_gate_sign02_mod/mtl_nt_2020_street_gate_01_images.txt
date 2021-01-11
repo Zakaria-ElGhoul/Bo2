@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,nt_street_gate_n
-colorMap,~~-gnt_street_gate_c-rgb&~-rn~6be02952

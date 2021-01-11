@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,ma_modern_light_fixture_nml
-colorMap,~~-gnt_2020_light_modern_col-~b70a963c

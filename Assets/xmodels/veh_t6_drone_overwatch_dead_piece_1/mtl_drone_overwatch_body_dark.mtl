@@ -1,8 +1,0 @@
-newmtl mtl_drone_overwatch_body_dark
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Ks 0.50 0.50 0.50
-map_Kd ..\\_images\\mtl_drone_overwatch_body_dark\\~-gveh_t6_drone_overwatch_dark_c.png
-map_bump ..\\_images\\mtl_drone_overwatch_body_dark\\veh_t6_drone_overwatch_n.png
-map_Ks ..\\_images\\mtl_drone_overwatch_body_dark\\~~-gveh_t6_drone_overwatch_s-~364a7f7a.png

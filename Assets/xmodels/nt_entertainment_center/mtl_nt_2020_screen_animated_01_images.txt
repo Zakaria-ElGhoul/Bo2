@@ -1,2 +1,0 @@
-semantic,image_name
-colorMap,~-gnt_2020_screen_animated_01_c

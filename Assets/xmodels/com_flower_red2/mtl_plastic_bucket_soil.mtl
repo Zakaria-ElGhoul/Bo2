@@ -1,8 +1,0 @@
-newmtl mtl_plastic_bucket_soil
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Ks 0.50 0.50 0.50
-map_Kd ..\\_images\\mtl_plastic_bucket_soil\\~-gplastic_bucket_soil_col.png
-map_bump ..\\_images\\mtl_plastic_bucket_soil\\plastic_bucket_soil_nml.png
-map_Ks ..\\_images\\mtl_plastic_bucket_soil\\~~-gplastic_bucket_soil_spc-r~026149b0.png

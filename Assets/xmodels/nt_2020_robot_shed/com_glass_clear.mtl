@@ -1,8 +1,0 @@
-newmtl com_glass_clear
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Ks 0.50 0.50 0.50
-map_Kd ..\\_images\\com_glass_clear\\~-gcore_glass_plain_c.png
-map_bump ..\\_images\\com_glass_clear\\$identitynormalmap.png
-map_Ks ..\\_images\\com_glass_clear\\~~-gcore_glass_plain_s-rgb&~-~5d01a350.png

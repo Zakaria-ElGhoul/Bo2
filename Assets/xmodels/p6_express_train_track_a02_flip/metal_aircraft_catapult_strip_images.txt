@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,metal_aircraft_catapult_strip_n
-colorMap,~~-gmetal_aircraft_catapult_s~fed032f4

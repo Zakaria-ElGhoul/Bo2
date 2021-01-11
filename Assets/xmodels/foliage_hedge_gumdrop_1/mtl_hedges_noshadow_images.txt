@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,hedge_boxy_nml
-colorMap,~-ghedge_boxy_col

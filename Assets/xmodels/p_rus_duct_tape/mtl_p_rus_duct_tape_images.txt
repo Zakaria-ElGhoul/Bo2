@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,p_rus_duct_tape_n
-colorMap,~~-gp_rus_duct_tape_c-rgb&~-r~a064ef7c

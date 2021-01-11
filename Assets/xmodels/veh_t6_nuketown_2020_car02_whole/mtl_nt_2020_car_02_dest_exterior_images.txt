@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gnuketown_car_exterior_dmg~a3ced419
-normalMap,nuketown_car_exterior_dmg_n
-colorMap,~-gnuketown_car_exterior_dmg_c

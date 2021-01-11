@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,jun_ter_dirt_packed_n
-colorMap,~~-gjun_ter_dirt_packed_c-rgb~2472ac55

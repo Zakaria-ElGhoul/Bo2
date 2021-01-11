@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,$identitynormalmap
-colorMap,~~-gmp_b_laminate_blue_c-rgb&~dc09731a

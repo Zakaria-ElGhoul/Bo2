@@ -1,6 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gmtl_t6_attach_gl_m320_spc~ee46d70a
-normalMap,mtl_t6_attach_gl_m320_nml
-unk_semantic_0x6001F931,~mtl_t6_attach_gl_m320_ao-l&m~999304a1
-colorMap,~-gmtl_t6_attach_gl_m320_col
-unk_semantic_0xBDBA9390,weapon_camo_neutral

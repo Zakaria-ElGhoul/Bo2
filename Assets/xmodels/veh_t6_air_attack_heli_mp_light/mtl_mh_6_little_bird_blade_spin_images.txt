@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gmh6_littlebird_blade_spin~c232ca8d
-normalMap,$identitynormalmap
-colorMap,~-gmh6_littlebird_blade_spin_c

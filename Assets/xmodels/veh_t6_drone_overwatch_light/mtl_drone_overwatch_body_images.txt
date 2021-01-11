@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-gveh_t6_drone_overwatch_s-~364a7f7a
-normalMap,veh_t6_drone_overwatch_n
-colorMap,~-gveh_t6_drone_overwatch_light_c

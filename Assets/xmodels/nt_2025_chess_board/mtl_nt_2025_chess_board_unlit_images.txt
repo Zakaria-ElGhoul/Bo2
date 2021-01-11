@@ -1,2 +1,0 @@
-semantic,image_name
-colorMap,~-gnt_2025_chess_board_c

@@ -1,2 +1,0 @@
-semantic,image_name
-colorMap,nt_2020_sign_truck_03_col

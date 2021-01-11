@@ -1,4 +1,0 @@
-semantic,image_name
-unk_semantic_0x34ECCCB3,~~-grailroadtrack_side_spec-r~bd24d173
-normalMap,railroadtrack_side_bump
-colorMap,~-grailroadtrack_side

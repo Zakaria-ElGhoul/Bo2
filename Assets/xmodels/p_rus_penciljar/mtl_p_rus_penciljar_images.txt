@@ -1,3 +1,0 @@
-semantic,image_name
-normalMap,p_rus_penciljar_n
-colorMap,~-gp_rus_penciljar_c
